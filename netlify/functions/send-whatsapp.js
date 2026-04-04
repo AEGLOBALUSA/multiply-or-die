@@ -50,6 +50,6 @@ exports.handler = async (event) => {
   return {
     statusCode: 200,
     headers,
-    body: JSON.stringify({ success: true, message_sid: result })
+    body: JSON.stringify({ success: true, message_id: result })
   };
 };

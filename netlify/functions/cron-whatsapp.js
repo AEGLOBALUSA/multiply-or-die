@@ -8,9 +8,10 @@ const { sendWhatsApp, alreadySent } = require('./lib/whatsapp');
  * 2. Day 14 profile nudge for book_buyer lifecycle
  * 3. Video unlock notifications for masterclass users
  * 4. Monthly check-ins for under-100 pastors
+ *
+ * All cron messages use Wati TEMPLATE messages (outbound, outside 24h window).
  */
 exports.handler = async (event) => {
-  // Scheduled functions receive a special event
   console.log('WhatsApp cron started:', new Date().toISOString());
 
   const db = getSupabase();
@@ -38,7 +39,15 @@ exports.handler = async (event) => {
           person.id,
           person.mobile_phone,
           'day_7_profile_nudge',
-          `Sudah mulai membaca? Lengkapi profil kepemimpinan Anda untuk membuka akses ke masterclass video gratis. ${link}`
+          `Sudah mulai membaca? Lengkapi profil kepemimpinan Anda untuk membuka akses ke masterclass video gratis. ${link}`,
+          {
+            useTemplate: true,
+            templateName: 'profile_nudge',
+            parameters: [
+              { name: 'first_name', value: person.first_name || '' },
+              { name: 'profile_link', value: link }
+            ]
+          }
         );
         totalSent++;
       }
@@ -66,7 +75,15 @@ exports.handler = async (event) => {
           person.id,
           person.mobile_phone,
           'day_14_profile_nudge',
-          `Masterclass Anda menunggu. 4 video yang akan mengubah cara Anda memimpin. Selesaikan profil Anda. ${link}`
+          `Masterclass Anda menunggu. 4 video yang akan mengubah cara Anda memimpin. Selesaikan profil Anda. ${link}`,
+          {
+            useTemplate: true,
+            templateName: 'profile_nudge_urgent',
+            parameters: [
+              { name: 'first_name', value: person.first_name || '' },
+              { name: 'profile_link', value: link }
+            ]
+          }
         );
         totalSent++;
       }
@@ -79,7 +96,6 @@ exports.handler = async (event) => {
   try {
     const SEVEN_DAYS_MS = 7 * 24 * 60 * 60 * 1000;
 
-    // Get all people in masterclass who have started at least one video
     const { data: masterclassPeople } = await db
       .from('people')
       .select('id, mobile_phone, masterclass_access_token')
@@ -88,7 +104,6 @@ exports.handler = async (event) => {
 
     if (masterclassPeople) {
       for (const person of masterclassPeople) {
-        // Get their progress
         const { data: progress } = await db
           .from('masterclass_progress')
           .select('video_number, started_at')
@@ -100,12 +115,10 @@ exports.handler = async (event) => {
         const progressMap = {};
         progress.forEach(function(p) { progressMap[p.video_number] = p; });
 
-        // Check videos 2-4 for unlock notifications
         for (let v = 2; v <= 4; v++) {
           const prevProg = progressMap[v - 1];
           const currentProg = progressMap[v];
 
-          // If previous video started AND 7 days have passed AND current not started AND not already notified
           if (prevProg && prevProg.started_at && !currentProg) {
             const unlockDate = new Date(new Date(prevProg.started_at).getTime() + SEVEN_DAYS_MS);
             if (now >= unlockDate) {
@@ -113,16 +126,24 @@ exports.handler = async (event) => {
               if (await alreadySent(person.id, messageType)) continue;
 
               const link = `${siteUrl}/masterclass?id=${person.id}&token=${person.masterclass_access_token}`;
-              var messages = {
-                2: 'Video 2 telah dibuka! Lanjutkan perjalanan Anda: ',
-                3: 'Video 3 menunggu Anda: ',
-                4: 'Video terakhir Anda siap: '
+              var videoTitles = {
+                2: 'Video 2',
+                3: 'Video 3',
+                4: 'Video terakhir'
               };
               await sendWhatsApp(
                 person.id,
                 person.mobile_phone,
                 messageType,
-                messages[v] + link
+                `${videoTitles[v]} telah dibuka! Lanjutkan perjalanan Anda: ${link}`,
+                {
+                  useTemplate: true,
+                  templateName: 'video_unlock',
+                  parameters: [
+                    { name: 'video_title', value: videoTitles[v] },
+                    { name: 'masterclass_link', value: link }
+                  ]
+                }
               );
               totalSent++;
             }
@@ -152,11 +173,9 @@ exports.handler = async (event) => {
       ];
 
       for (const person of under100People) {
-        // Find which monthly message is next (hasn't been sent yet)
         for (const msg of monthlyMessages) {
           if (await alreadySent(person.id, msg.type)) continue;
 
-          // Check if enough time has passed (30 days between each)
           const prevType = monthlyMessages[monthlyMessages.indexOf(msg) - 1];
           if (prevType) {
             const { data: prevLog } = await db
@@ -168,12 +187,11 @@ exports.handler = async (event) => {
 
             if (prevLog) {
               const daysSince = (now - new Date(prevLog.sent_at)) / (1000 * 60 * 60 * 24);
-              if (daysSince < 30) break; // Not time yet
+              if (daysSince < 30) break;
             } else {
-              break; // Previous message not sent yet
+              break;
             }
           } else {
-            // First message — check if masterclass was completed at least 30 days ago
             const { data: personData } = await db
               .from('people')
               .select('updated_at')
@@ -186,9 +204,16 @@ exports.handler = async (event) => {
             }
           }
 
-          await sendWhatsApp(person.id, person.mobile_phone, msg.type, msg.body);
+          await sendWhatsApp(person.id, person.mobile_phone, msg.type, msg.body, {
+            useTemplate: true,
+            templateName: 'monthly_checkin',
+            parameters: [
+              { name: 'first_name', value: person.first_name || '' },
+              { name: 'checkin_message', value: msg.body }
+            ]
+          });
           totalSent++;
-          break; // Only send one per person per day
+          break;
         }
       }
     }

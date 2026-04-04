@@ -89,7 +89,7 @@ exports.handler = async (event) => {
 
   if (videoNum === 4) {
     if (isLargeChurch) {
-      // Unlock Video 5 — send WhatsApp
+      // Unlock Video 5 — send WhatsApp (session message — user just submitted assignment)
       nextAction = 'video_5_unlocked';
       if (person.mobile_phone) {
         const link = `${siteUrl}/masterclass?id=${person_id}&token=${person.masterclass_access_token}`;
@@ -101,7 +101,7 @@ exports.handler = async (event) => {
         ).catch(err => console.error('WhatsApp V5 unlock error:', err.message));
       }
     } else {
-      // Under-100 completion
+      // Under-100 completion (session message — user just submitted assignment)
       nextAction = 'masterclass_complete_under100';
       await db.from('people')
         .update({ lifecycle_stage: 'masterclass_complete', updated_at: now })

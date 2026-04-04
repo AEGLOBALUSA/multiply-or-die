@@ -132,7 +132,7 @@ exports.handler = async (event) => {
     return { statusCode: 500, headers, body: JSON.stringify({ error: 'Gagal membuat kode. Silakan coba lagi.' }) };
   }
 
-  // Step 4: Send WhatsApp welcome message (async, don't block response)
+  // Step 4: Send WhatsApp welcome message (session message — user just registered)
   sendWhatsApp(
     newPerson.id,
     phone,

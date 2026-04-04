@@ -40,9 +40,8 @@ Set these in Netlify dashboard (Site settings > Environment variables):
 | `SUPABASE_URL` | `https://qpvghoqrfbpfjywyteeg.supabase.co` |
 | `SUPABASE_SERVICE_ROLE_KEY` | *(get from `npx supabase projects api-keys --project-ref qpvghoqrfbpfjywyteeg`, use the `service_role` key)* |
 | `DESK_PIN` | *(ask Ashley's team for 4-digit PIN)* |
-| `TWILIO_ACCOUNT_SID` | *(from Twilio dashboard)* |
-| `TWILIO_AUTH_TOKEN` | *(from Twilio dashboard)* |
-| `TWILIO_WHATSAPP_NUMBER` | *(verified WhatsApp Business number from Twilio)* |
+| `WATI_API_URL` | `https://live-mt-server.wati.io/api/v1` *(confirm from Wati dashboard)* |
+| `WATI_API_TOKEN` | *(from Wati dashboard > API Settings)* |
 
 ### 4. Configure DNS
 Point `multiply-or-die.com` to Netlify:
@@ -55,8 +54,8 @@ Once videos are uploaded to Vimeo Pro (domain-restricted to multiply-or-die.com)
 - `netlify/functions/masterclass-data.js` (VIDEOS array, ~line 7)
 - `netlify/functions/start-video.js` (VIMEO_IDS object, ~line 7)
 
-### 6. Submit WhatsApp Templates
-Submit all 9+ message templates to Meta for approval via Twilio console. Allow 2-3 business days. Templates are in Bahasa Indonesia — see `cron-whatsapp.js` and `submit-assignment.js` for exact message text.
+### 6. Submit WhatsApp Templates via Wati
+Submit 4 custom templates through Wati's template manager. Allow 2-3 business days for Meta approval. See `WHATSAPP-TEMPLATES.md` for exact template specs. Only cron-triggered messages need templates — immediate responses use session messages (no template required).
 
 ## What's Already Done
 - [x] All HTML pages (6 files)

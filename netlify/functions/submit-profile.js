@@ -127,7 +127,7 @@ exports.handler = async (event) => {
     return { statusCode: 500, headers, body: JSON.stringify({ error: 'Failed to save profile.' }) };
   }
 
-  // Send WhatsApp if masterclass unlocked
+  // Send WhatsApp if masterclass unlocked (session message — user just submitted profile)
   if (masterclassUnlocked && person.mobile_phone) {
     const siteUrl = process.env.SITE_URL || 'https://multiply-or-die.com';
     const link = `${siteUrl}/masterclass?id=${personId}&token=${updates.masterclass_access_token}`;

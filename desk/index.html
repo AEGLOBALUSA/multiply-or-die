@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Desk Verification — Multiply or Die</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  <style>
+    body { background: #f5f0e8; }
+    .desk-header { background: #1e2a3a; color: #e8e0d0; padding: 16px; text-align: center; }
+    .desk-header h1 { font-size: 1.25rem; margin: 0; }
+  </style>
+</head>
+<body>
+
+<div class="offline-banner" id="offline-banner">OFFLINE — Switch to paper backup</div>
+
+<div class="desk-header">
+  <h1>Desk Verification Tool</h1>
+</div>
+
+<div class="container">
+  <!-- PIN Entry Screen -->
+  <div id="pin-screen" class="pin-section">
+    <h2>Enter PIN</h2>
+    <p style="color: var(--text-light); margin-bottom: 24px;">Enter the 4-digit desk PIN to begin.</p>
+    <div id="pin-message"></div>
+    <input type="password" id="pin-input" class="pin-input" maxlength="4" inputmode="numeric" pattern="[0-9]*" autofocus>
+    <div class="mt-16">
+      <button id="pin-btn" class="btn btn-primary" style="max-width: 200px; margin: 0 auto;">Unlock</button>
+    </div>
+  </div>
+
+  <!-- Verification Screen (hidden until PIN verified) -->
+  <div id="verify-screen" class="hidden">
+    <div class="form-section" style="margin-top: 16px;">
+      <h2>Verify Redemption Code</h2>
+      <div class="form-group">
+        <input type="text" id="code-input" class="code-input" placeholder="MOD-XXXX" maxlength="8" autocomplete="off" autofocus>
+      </div>
+      <button id="verify-btn" class="btn btn-primary">Verify</button>
+    </div>
+
+    <div id="verify-message"></div>
+
+    <!-- Result Cards -->
+    <div id="result-valid" class="status-card status-valid hidden">
+      <h2 style="color: var(--green);">VALID</h2>
+      <p class="person-name" id="result-name"></p>
+      <p class="person-church" id="result-church"></p>
+      <button id="collect-btn" class="btn btn-success mt-16">Mark as Collected</button>
+    </div>
+
+    <div id="result-collected" class="status-card status-collected hidden">
+      <h2 style="color: var(--orange);">ALREADY COLLECTED</h2>
+      <p id="collected-time"></p>
+    </div>
+
+    <div id="result-invalid" class="status-card status-invalid hidden">
+      <h2 style="color: var(--red);">INVALID CODE</h2>
+      <p>Code not found. Please check and try again.</p>
+    </div>
+  </div>
+</div>
+
+<script src="/js/shared.js"></script>
+<script src="/js/desk.js"></script>
+</body>
+</html>

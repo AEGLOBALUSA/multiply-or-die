@@ -1,0 +1,10 @@
+{
+  "name": "multiply-or-die",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Multiply or Die Indonesian Conference Sales Funnel",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.47.12",
+    "twilio": "^5.4.0"
+  }
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Masterclass — Multiply or Die</title>
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+
+<div class="hero" style="padding: 24px 16px;">
+  <h1>Masterclass</h1>
+  <p id="greeting">Multiply or Die</p>
+</div>
+
+<div class="container">
+  <!-- Loading -->
+  <div id="loading" class="form-section text-center">
+    <p>Memuat masterclass Anda...</p>
+  </div>
+
+  <!-- Access Denied -->
+  <div id="denied" class="form-section hidden">
+    <div class="message message-error">Akses ditolak. Pastikan Anda menggunakan link dari WhatsApp Anda.</div>
+  </div>
+
+  <!-- Video Dashboard -->
+  <div id="dashboard" class="hidden" style="margin-top: 16px;">
+    <div id="video-list"></div>
+  </div>
+
+  <!-- Under-100 Completion Message -->
+  <div id="completion-under100" class="completion hidden">
+    <svg class="checkmark" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="32" cy="32" r="30" fill="#2d8a4e"/>
+      <path d="M20 32l8 8 16-16" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <h2>Masterclass Selesai!</h2>
+    <p>Anda telah menyelesaikan Masterclass! Saya bangga dengan Anda. Sekarang saatnya menerapkan apa yang telah Anda pelajari.</p>
+    <p>Ketika gereja Anda mencapai 100 orang dalam ibadah mingguan, saya ingin Anda bergabung dengan Roundtable &mdash; kelompok kecil pendeta yang bekerja bersama melalui kerangka kerja ini dengan pemimpin Futures Church.</p>
+    <p><strong>Terus bertumbuh. Kami mengawasi Anda.</strong></p>
+  </div>
+
+  <!-- 100+ Completion Message -->
+  <div id="completion-100plus" class="completion hidden">
+    <svg class="checkmark" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="32" cy="32" r="30" fill="#2d8a4e"/>
+      <path d="M20 32l8 8 16-16" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <h2>Selamat!</h2>
+    <p>Anda telah menyelesaikan Masterclass Multiply or Die.</p>
+    <p><strong>Balas "YES" ke pesan WhatsApp untuk bergabung dengan Roundtable.</strong></p>
+  </div>
+</div>
+
+<script src="/js/shared.js"></script>
+<script src="/js/masterclass.js"></script>
+</body>
+</html>

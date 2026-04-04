@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Video — Masterclass Multiply or Die</title>
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+
+<div class="hero" style="padding: 16px;">
+  <a href="#" id="back-link" style="color: var(--cream); text-decoration: none; font-size: 0.9rem;">&larr; Kembali ke Dashboard</a>
+  <h1 id="video-title" style="margin-top: 8px;">Video</h1>
+</div>
+
+<div class="container-wide">
+  <!-- Loading -->
+  <div id="loading" class="form-section text-center">
+    <p>Memuat video...</p>
+  </div>
+
+  <!-- Error -->
+  <div id="error-screen" class="form-section hidden">
+    <div class="message message-error" id="error-text"></div>
+  </div>
+
+  <!-- Video Player -->
+  <div id="video-section" class="hidden">
+    <div class="video-container" id="video-container">
+      <!-- Vimeo iframe injected by JS -->
+    </div>
+
+    <!-- Assignment Form -->
+    <div class="form-section mt-16">
+      <h2>Tugas</h2>
+      <p style="color: var(--text-light); font-size: 0.9rem;" id="assignment-prompt">Tuliskan refleksi Anda tentang video ini dan bagaimana Anda akan menerapkannya di gereja Anda.</p>
+
+      <div id="assignment-message"></div>
+
+      <div id="assignment-form-wrapper">
+        <div class="form-group mt-16">
+          <textarea id="assignment-text" placeholder="Tulis jawaban Anda di sini..." maxlength="5000"></textarea>
+        </div>
+        <button id="submit-assignment-btn" class="btn btn-primary">Kirim Tugas</button>
+      </div>
+
+      <div id="assignment-submitted" class="hidden" style="text-align: center; padding: 16px;">
+        <svg width="48" height="48" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="32" cy="32" r="30" fill="#2d8a4e"/>
+          <path d="M20 32l8 8 16-16" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <p class="mt-16"><strong>Tugas telah dikirim!</strong></p>
+        <a href="#" id="back-to-dashboard" class="btn btn-primary mt-16" style="text-decoration: none;">Kembali ke Dashboard</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/js/shared.js"></script>
+<script>
+(function() {
+  var params = new URLSearchParams(window.location.search);
+  var personId = params.get('id');
+  var token = params.get('token');
+  var videoNum = parseInt(params.get('v'));
+
+  var loadingEl = document.getElementById('loading');
+  var errorScreen = document.getElementById('error-screen');
+  var errorText = document.getElementById('error-text');
+  var videoSection = document.getElementById('video-section');
+  var videoContainer = document.getElementById('video-container');
+  var videoTitle = document.getElementById('video-title');
+  var backLink = document.getElementById('back-link');
+  var backToDashboard = document.getElementById('back-to-dashboard');
+  var assignmentText = document.getElementById('assignment-text');
+  var submitBtn = document.getElementById('submit-assignment-btn');
+  var assignmentMessage = document.getElementById('assignment-message');
+  var assignmentFormWrapper = document.getElementById('assignment-form-wrapper');
+  var assignmentSubmitted = document.getElementById('assignment-submitted');
+
+  var dashboardUrl = '/masterclass?id=' + personId + '&token=' + token;
+  backLink.href = dashboardUrl;
+  backToDashboard.href = dashboardUrl;
+
+  if (!personId || !token || isNaN(videoNum)) {
+    showError('Link tidak valid.');
+    return;
+  }
+
+  // Start video — get Vimeo ID
+  apiCall('start-video', {
+    person_id: personId,
+    token: token,
+    video_number: videoNum
+  }).then(function(data) {
+    loadingEl.classList.add('hidden');
+    videoSection.classList.remove('hidden');
+
+    videoTitle.textContent = 'Video ' + videoNum;
+
+    // Embed Vimeo player
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://player.vimeo.com/video/' + data.vimeo_id + '?title=0&byline=0&portrait=0';
+    iframe.setAttribute('allow', 'autoplay; fullscreen; picture-in-picture');
+    iframe.setAttribute('allowfullscreen', '');
+    videoContainer.appendChild(iframe);
+  }).catch(function(err) {
+    showError(err.message || 'Gagal memuat video.');
+  });
+
+  function showError(msg) {
+    loadingEl.classList.add('hidden');
+    errorScreen.classList.remove('hidden');
+    errorText.textContent = msg;
+  }
+
+  // Assignment submission
+  submitBtn.addEventListener('click', function() {
+    var text = assignmentText.value.trim();
+    if (!text) {
+      showMessage(assignmentMessage, 'Harap tulis jawaban Anda sebelum mengirim.', 'error');
+      return;
+    }
+
+    showLoading(submitBtn);
+    clearMessage(assignmentMessage);
+
+    apiCall('submit-assignment', {
+      person_id: personId,
+      token: token,
+      video_number: videoNum,
+      assignment_text: text
+    }).then(function(data) {
+      hideLoading(submitBtn);
+      assignmentFormWrapper.classList.add('hidden');
+      assignmentSubmitted.classList.remove('hidden');
+
+      // Handle completion triggers
+      if (data.next_action === 'masterclass_complete_under100') {
+        backToDashboard.textContent = 'Lihat Pesan Selesai';
+      } else if (data.next_action === 'video_5_unlocked') {
+        backToDashboard.textContent = 'Tonton Video Spesial dari Ashley';
+      } else if (data.next_action === 'roundtable_ready') {
+        backToDashboard.textContent = 'Lihat Langkah Selanjutnya';
+      }
+    }).catch(function(err) {
+      hideLoading(submitBtn);
+      showMessage(assignmentMessage, err.message || 'Gagal mengirim tugas.', 'error');
+    });
+  });
+})();
+</script>
+</body>
+</html>

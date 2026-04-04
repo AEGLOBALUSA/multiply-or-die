@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Multiply or Die — Dapatkan Buku Gratis Anda</title>
+  <meta name="description" content="Daftarkan diri Anda untuk menerima buku gratis Multiply or Die oleh Ashley Evans.">
+  <link rel="stylesheet" href="/css/styles.css">
+  <style>
+    /* Critical inline styles for fast FCP */
+    body { background: #f5f0e8; }
+    .hero { background: #1e2a3a; color: #e8e0d0; padding: 32px 16px; text-align: center; }
+  </style>
+</head>
+<body>
+
+<div class="hero">
+  <h1>Multiply or Die</h1>
+  <p>Hukum Tersembunyi yang Membangun Kerajaan dan Mengubur Pemimpin</p>
+  <div class="hero-images">
+    <img src="/images/book-cover.jpg" alt="Multiply or Die Book Cover" class="book-cover" width="120" height="180" loading="eager">
+    <img src="/images/ashley-headshot.jpg" alt="Ashley Evans" class="headshot" width="100" height="100" loading="eager">
+  </div>
+  <p><strong>Ashley Evans</strong></p>
+</div>
+
+<div class="container">
+  <!-- Registration Form -->
+  <div id="form-section" class="form-section">
+    <h2>Dapatkan Buku Gratis Anda</h2>
+    <p style="color: var(--text-light); font-size: 0.9rem;">Isi formulir di bawah ini untuk mendapatkan kode pengambilan buku.</p>
+
+    <div id="form-message"></div>
+
+    <form id="register-form" novalidate>
+      <div class="form-group">
+        <label for="first_name">Nama Depan *</label>
+        <input type="text" id="first_name" name="first_name" required autocomplete="given-name" maxlength="100">
+      </div>
+
+      <div class="form-group">
+        <label for="last_name">Nama Belakang *</label>
+        <input type="text" id="last_name" name="last_name" required autocomplete="family-name" maxlength="100">
+      </div>
+
+      <div class="form-group">
+        <label for="email">Email *</label>
+        <input type="email" id="email" name="email" required autocomplete="email" maxlength="254" inputmode="email">
+      </div>
+
+      <div class="form-group">
+        <label for="mobile_phone">Nomor WhatsApp *</label>
+        <input type="tel" id="mobile_phone" name="mobile_phone" required autocomplete="tel" inputmode="tel" placeholder="+62 812 3456 7890" maxlength="20">
+        <span class="hint">Masukkan nomor WhatsApp Anda dengan kode negara</span>
+      </div>
+
+      <div class="form-group">
+        <label for="church_name">Nama Gereja *</label>
+        <input type="text" id="church_name" name="church_name" required maxlength="200">
+      </div>
+
+      <div class="form-group">
+        <label for="city">Kota *</label>
+        <input type="text" id="city" name="city" required maxlength="100">
+      </div>
+
+      <div class="form-group">
+        <label for="preferred_language">Bahasa Pilihan</label>
+        <select id="preferred_language" name="preferred_language">
+          <option value="id" selected>Bahasa Indonesia</option>
+          <option value="en">English</option>
+        </select>
+      </div>
+
+      <div class="checkbox-group">
+        <input type="checkbox" id="consent" name="consent" required>
+        <label for="consent">Saya setuju menerima pesan WhatsApp tentang sumber daya kepemimpinan.</label>
+      </div>
+
+      <button type="submit" id="submit-btn" class="btn btn-primary">Daftar & Dapatkan Kode</button>
+    </form>
+  </div>
+
+  <!-- Confirmation Screen (hidden by default) -->
+  <div id="confirmation" class="form-section confirmation hidden">
+    <svg class="checkmark" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="32" cy="32" r="30" fill="#2d8a4e"/>
+      <path d="M20 32l8 8 16-16" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <h2>Pendaftaran Berhasil!</h2>
+    <p>Kode pengambilan buku Anda:</p>
+    <div id="code-display" class="code-display"></div>
+    <p class="mt-16"><strong>Tunjukkan layar ini di meja pendaftaran untuk mengambil buku gratis Anda.</strong></p>
+    <p style="color: var(--text-light); font-size: 0.85rem; margin-top: 24px;">Kode ini juga telah dikirim ke WhatsApp Anda.</p>
+  </div>
+</div>
+
+<script src="/js/shared.js"></script>
+<script src="/js/invested.js"></script>
+</body>
+</html>

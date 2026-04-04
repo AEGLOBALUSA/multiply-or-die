@@ -15,7 +15,7 @@ exports.handler = async (event) => {
 
   const db = getSupabase();
   const now = new Date();
-  const siteUrl = process.env.SITE_URL || 'https://multiplyordie.com';
+  const siteUrl = process.env.SITE_URL || 'https://multiply-or-die.com';
 
   let totalSent = 0;
 

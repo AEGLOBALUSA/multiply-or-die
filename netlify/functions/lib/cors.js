@@ -1,6 +1,6 @@
 const ALLOWED_ORIGINS = [
-  'https://multiplyordie.com',
-  'https://www.multiplyordie.com',
+  'https://multiply-or-die.com',
+  'https://www.multiply-or-die.com',
   'http://localhost:8888',
   'http://localhost:3000'
 ];

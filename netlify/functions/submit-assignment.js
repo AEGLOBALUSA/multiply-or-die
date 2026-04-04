@@ -84,7 +84,7 @@ exports.handler = async (event) => {
 
   // Check completion triggers
   const isLargeChurch = ['100–300', '300–800', '800+'].includes(person.church_size);
-  const siteUrl = process.env.SITE_URL || 'https://multiplyordie.com';
+  const siteUrl = process.env.SITE_URL || 'https://multiply-or-die.com';
   let nextAction = null;
 
   if (videoNum === 4) {

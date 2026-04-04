@@ -45,13 +45,13 @@ Set these in Netlify dashboard (Site settings > Environment variables):
 | `TWILIO_WHATSAPP_NUMBER` | *(verified WhatsApp Business number from Twilio)* |
 
 ### 4. Configure DNS
-Point `multiplyordie.com` to Netlify:
+Point `multiply-or-die.com` to Netlify:
 - Add custom domain in Netlify dashboard
 - Update DNS records at domain registrar to point to Netlify
 - Enable HTTPS (automatic via Let's Encrypt)
 
 ### 5. Replace Vimeo Placeholders
-Once videos are uploaded to Vimeo Pro (domain-restricted to multiplyordie.com), replace `PLACEHOLDER_1` through `PLACEHOLDER_5` in:
+Once videos are uploaded to Vimeo Pro (domain-restricted to multiply-or-die.com), replace `PLACEHOLDER_1` through `PLACEHOLDER_5` in:
 - `netlify/functions/masterclass-data.js` (VIDEOS array, ~line 7)
 - `netlify/functions/start-video.js` (VIMEO_IDS object, ~line 7)
 

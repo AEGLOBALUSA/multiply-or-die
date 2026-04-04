@@ -129,7 +129,7 @@ exports.handler = async (event) => {
 
   // Send WhatsApp if masterclass unlocked
   if (masterclassUnlocked && person.mobile_phone) {
-    const siteUrl = process.env.SITE_URL || 'https://multiplyordie.com';
+    const siteUrl = process.env.SITE_URL || 'https://multiply-or-die.com';
     const link = `${siteUrl}/masterclass?id=${personId}&token=${updates.masterclass_access_token}`;
     sendWhatsApp(
       personId,

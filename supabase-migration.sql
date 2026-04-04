@@ -1,5 +1,5 @@
 -- Multiply or Die - Supabase Migration
--- Run this against project: bflpgsnixfjkitiqedsf
+-- Run this against project: qpvghoqrfbpfjywyteeg (Indonesian National Conference)
 
 CREATE TABLE IF NOT EXISTS people (
   id uuid PRIMARY KEY DEFAULT gen_random_uuid(),

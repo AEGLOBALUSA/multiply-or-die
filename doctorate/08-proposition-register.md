@@ -4,9 +4,9 @@
 
 This is the analytical spine of both the critical commentary (document 05, §3–4) and chapter 8 of the thesis. It does the work that turns a trade book into a research object: it states each claim formally, classifies what kind of claim it is, and says what would show it to be wrong.
 
-**Do not skip the classification column.** Its honesty is the point. A register that graded every proposition "empirically testable" would be worthless — and transparently so to any examiner. The genuine finding here is that **of 24 propositions, 15 are directly testable against the case, 6 require comparison outside it, and 3 are theological rather than empirical — while nine of the book's most memorable devices carry no independent evidential weight at all.** Saying that plainly is what demonstrates research capacity.
+**Do not skip the classification column.** Its honesty is the point. A register that graded every proposition "empirically testable" would be worthless — and transparently so to any examiner. The genuine finding here is that **of 24 propositions, 16 are directly testable against the case, 5 require comparison outside it, and 3 are theological rather than empirical — while nine of the book's most memorable devices carry no independent evidential weight at all.** Saying that plainly is what demonstrates research capacity.
 
-> **Revision note.** P1 — the book's central claim — was originally graded B, untestable from inside, on the assumption that the case began in 2000. It doesn't. The organisation was led by the candidate's predecessor from 1970 to 2000 and transferred to him in 2000: **a completed founder succession with a twenty-six-year follow-up, already inside the case.** P1 is now class A, and P12 gains a second embedded test. Extending the case to the predecessor generation is the single most valuable change made to this design.
+> **Revision note.** P1 — the book's central claim — is class A, tested across the **thirty to fifty campus-level leadership transitions** the network has generated since 2000. An earlier revision routed it through the 2000 handover from the candidate's predecessor; that case has been withdrawn from the study (document 09). The unit-level route is the stronger of the two: a single succession could only illustrate mechanism, whereas thirty to fifty can establish pattern.
 
 ---
 
@@ -31,15 +31,17 @@ This is the analytical spine of both the critical commentary (document 05, §3�
 
 **Formal:** Organisations whose growth depends on the leader's direct output decline following that leader's departure; organisations whose growth depends on leader-production continue growing after it.
 
-**Class: A — reclassified.** *This proposition was originally graded B (untestable internally) on the assumption that the case began in 2000 and had not undergone succession. That was wrong. The organisation was led by the candidate's predecessor from 1970 to 2000 and transferred to the candidate in 2000 — **a completed founder-to-successor transition with a twenty-six-year follow-up**, inside the case, in the archive.*
+**Class: A — via unit-level succession.** *Revised twice. Originally graded B on the assumption the claim needed a founder succession the network hadn't had. Then reclassified to A on the basis of the 2000 handover from the candidate's predecessor. **That case has since been withdrawn from the study at the candidate's direction** (see document 09). P1 remains class A — tested instead across the thirty to fifty campus-level leadership transitions the network has generated since 2000.*
 
-**Operationalisation:** Interrupted time series across the 2000 transition on attendance, giving, staffing and leaders-produced. Then the decisive question: characterise the predecessor's growth mode. Growth from ~150 to 2,000+ over thirty years is substantial by any measure — but was it produced by *addition* (the leader's own direct output: preaching, pastoral reach, personal reputation) or by *multiplication* (leader-production)? P1 predicts that the higher the addition-share of pre-2000 growth, the sharper the post-succession discontinuity.
+**Operationalisation:** For each transition, code the outgoing leader's operating mode — the share of the unit's growth attributable to that leader's own direct output (preaching draw, personal pastoral reach, local reputation) versus to leader-production. Then interrupted time series on attendance, giving and leaders-produced across the transition, comparing outcomes at 24 and 60 months, controlling for unit size, age and context.
 
-**Falsified by:** A predominantly addition-built organisation transferring without discontinuity; or a leader-producing organisation collapsing at succession.
+**P1 predicts:** the higher the addition-share of a unit's pre-transition growth, the sharper the post-transition decline.
 
-**Note — the tension is the finding.** Public accounts describe continuous growth to 2,000+ and beyond. The candidate's own account describes receiving the church in a *declining season*. Both can be true: peak attendance and peak vitality need not coincide. The gap between an organisation's public narrative and its internal condition at succession is exactly what this literature lacks. **Do not resolve this tension in the introduction. Investigate it.**
+**Falsified by:** Addition-built units transferring without discontinuity; or leader-producing units collapsing at transition.
 
-**Note — n=1.** One succession establishes mechanism, sequence and plausibility, and it can falsify. It cannot generalise alone. External comparison cases would still strengthen the claim, but the proposition is no longer beyond reach.
+**Why this is stronger than the withdrawn case.** A single founder succession could establish mechanism and could falsify, but could never generalise. Thirty to fifty transitions can establish *pattern* — with statistical purchase, controls, and variation in circumstance (planned handovers, promotions, resignations, removals, departures under conflict) that a single case cannot supply. The withdrawal cost the study a long time series and gained it a real n. On balance the proposition is now better tested, not worse.
+
+**Live test available.** P1 is also a Level C candidate: for units launched from 2027, the addition/multiplication profile can be scored *before* any transition occurs, and the prediction lodged in advance.
 
 ---
 
@@ -86,9 +88,13 @@ This is the analytical spine of both the critical commentary (document 05, §3�
 
 **Formal:** Leader-identification accuracy declines with tenure, via four mechanisms: past-tense vision, list-based vision, formula-based vision, impatient vision.
 
-**Class: B.** Requires prospective design — identify candidates, record predictions, measure outcomes years later. Retrospective assessment is fatally contaminated by hindsight.
+**Class: A — via Level C.** *Previously graded B and written off as untestable within a six-year candidature, because it requires recording predictions before outcomes are known. **The prospective component makes it testable.*** Retrospective assessment remains fatally contaminated by hindsight and should not be attempted.
 
-**Note:** Honestly, this cannot be tested within a six-year candidature. Flag it as a direction for subsequent research rather than pretend otherwise.
+**Operationalisation:** At the point of each new leadership appointment, the candidate and a panel of long-tenured leaders independently record predictions about the appointee's development trajectory, alongside predictions from leaders with shorter tenure. Predictions are lodged and sealed. Outcomes are compared at 24 and 48 months. P4 predicts that **accuracy declines with predictor tenure**.
+
+**Falsified by:** Long-tenured predictors matching or outperforming shorter-tenured ones.
+
+**Note:** This one directly implicates the researcher's own judgement — he is among the longest-tenured predictors in the sample. A design in which the author's own selection accuracy is measured against his juniors, on record, in advance, is an unusually strong signal of good faith. It is also the proposition most likely to produce a genuinely surprising result.
 
 ---
 
@@ -198,9 +204,7 @@ This is the analytical spine of both the critical commentary (document 05, §3�
 
 **Operationalisation:** Code every campus-level leadership transition, 1970–2026, for transfer of each baton; compare against post-transition outcomes at 24 and 60 months.
 
-**And the embedded case:** apply the same five-baton frame to the **2000 succession itself**. Did title, responsibility, authority, relationships and vision all transfer — and on what timeline? The predecessor remained a public figure in the movement and entered political life the following year, which makes the *relationships* and *authority* batons the interesting ones to trace.
-
-**Why this is unusual:** the succession literature is written almost entirely from the departing founder's perspective. This is an account from the receiving end, by the person who received it, with twenty-six years of hindsight. That perspective is close to absent from the field.
+**Why this is unusual:** the succession literature is written overwhelmingly from the departing leader's perspective, and almost always about a single high-profile handover. A multi-case analysis of thirty to fifty ordinary transitions — promotions, relocations, resignations, removals, departures under conflict — inside one network is a different and rarer object of study. The unglamorous cases are where the pattern actually lives.
 
 ---
 
@@ -348,18 +352,18 @@ This is the analytical spine of both the critical commentary (document 05, §3�
 
 | Class | Count | Propositions |
 |---|---|---|
-| **A** — testable internally | 15 | **P1**, P2, P5, P6, P7, P8, P9, P10, P11, P12, P13, P16, P19, P20, P22 |
+| **A** — testable internally | 16 | **P1**, P2, **P4**, P5, P6, P7, P8, P9, P10, P11, P12, P13, P16, P19, P20, P22 |
 | **A/C mixed** | 2 | P3 (rate-predicts-persistence is A; "God measures" is C) · P17 (internal variation is A; general claim is B) |
-| **B** — needs external comparison | 6 | P4, P14, P15, P18, P21, P23 (only if reduced to a psychological proxy) |
+| **B** — needs external comparison | 5 | P14, P15, P18, P21, P23 (only if reduced to a psychological proxy) |
 | **C** — theological | 3 | P23 as stated, P24, and the normative half of P3 |
 | **D** — illustrative only | 9 devices | Whitefield/Wesley · Jacob's flocks · WeWork · tearless onions · bamboo · penny-doubling · cell division · biblical numerology · the five-year cycle |
 | **E** — definitional as worded | 2 | Elements of P1 and P3 require restatement before they can be tested |
 
 **What this tells you, and what to do with it:**
 
-1. **The book's central claim (P1) is testable after all — through the 2000 succession.** The decisive analytical question is whether the predecessor's thirty-year growth from ~150 to 2,000+ was addition-built or multiplication-built, and what the transition therefore reveals. Two honest qualifications stay in the abstract: n=1 at the succession level, and the current transition to the fourth generation is unfinished.
+1. **The book's central claim (P1) is testable — across unit-level successions.** The decisive analytical question is whether a departing leader's unit was addition-built or multiplication-built, and what the transition therefore reveals. With thirty to fifty transitions this yields pattern rather than anecdote, and P1 is additionally available for prospective testing at Level C.
 
-2. **The thesis should concentrate on the fifteen class-A propositions**, and P1, P2, P9, P12, P16 and P19 are the strongest six. That is more than enough for a doctoral contribution and considerably more than most single-site studies can attempt.
+2. **The thesis should concentrate on the sixteen class-A propositions**, and P1, P2, P9, P12, P16 and P19 are the strongest six. That is more than enough for a doctoral contribution and considerably more than most single-site studies can attempt.
 
 3. **The class-D material is the book's rhetorical engine and must be quarantined from the evidence.** Naming this yourself is one of the most persuasive things the commentary can do.
 

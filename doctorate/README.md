@@ -39,27 +39,42 @@ You published a set of laws about multiplication drawn from four decades of prac
 
 Very few applicants can credibly propose to find out whether they were wrong. You hold the archive that makes it possible.
 
-**Document 08 does this work for real.** Every chapter of *Multiply or Die* states an explicit Law. All twenty-four are now extracted, stated formally, and classified by what evidence could falsify them: 14 testable against your own dataset, 7 needing outside comparison, 3 theological rather than empirical — and 9 of the book's most memorable devices (Whitefield and Wesley, Jacob's flocks, WeWork, the tearless onions) classified as illustration carrying no evidential weight.
+**Document 08 does this work for real.** Every chapter of *Multiply or Die* states an explicit Law. All twenty-four are now extracted, stated formally, and classified by what evidence could falsify them: 16 testable against your own data, 5 needing outside comparison, 3 theological rather than empirical — and 9 of the book's most memorable devices (Whitefield and Wesley, Jacob's flocks, WeWork, the tearless onions) classified as illustration carrying no evidential weight.
 
-## The succession is the study's best asset
+## One rule that governs everything
 
-The design originally started the case in 2000 and treated the book's central claim as untestable — you can't observe whether multiplication outlives a leader without a completed succession.
+**A thesis cannot gather evidence to support a conclusion you already hold.** That is the single most common way experienced practitioners fail at doctoral level — they arrive certain, and certainty reads as the absence of inquiry.
 
-**That was wrong, and you caught it.** The organisation was led by your father from 1970 to 2000 — Klemzig, then Paradise from 1982, growing from about 150 to over 2,000 — and transferred to you in 2000. That is a **completed founder-to-successor transition with twenty-six years of follow-up**, already inside the case.
+The test an examiner applies is simple: *could this research have come out the other way?* If no finding could have embarrassed the author, the work fails — **regardless of whether its conclusions happen to be true.** A correct answer reached by a method that could not detect error earns no doctorate, because the method is what is being examined.
 
-The proposal now runs **1970–2026** at two levels: the ~21 units compared against each other, and the organisational line across leadership generations. P1 is reclassified as testable, and the five-baton succession proposition (P12) gains a second test against the transition you personally received.
+The legitimate version, and it is a real advantage:
 
-The decisive analytical question: your father's thirty-year growth from 150 to 2,000+ — was it built by **addition** (his own preaching, reach and reputation) or by **multiplication** (leader-production)? P1 predicts the addition-share determines how sharp the discontinuity at handover was.
+> ~~The book is the conclusion; the research supports it.~~
+> **The book is the prediction; the research tests whether it holds.**
 
-**And the tension is the finding.** Public accounts describe continuous growth. Your account describes receiving the church in a declining season. Both can be true — peak attendance and peak vitality don't have to coincide. The gap between an organisation's public narrative and its internal condition at succession is exactly what this literature lacks. Don't resolve it in the introduction; investigate it.
+Same book, same forty years, in many cases the same interviews. What differs is whether the answer was fixed before you started. Full argument in [document 09](09-design-without-the-predecessor.md).
 
-Three things to sit with before anyone else raises them:
+---
 
-- **n=1 at the succession level.** One transition establishes mechanism and can falsify. It cannot generalise alone, and the thesis shouldn't claim it does.
-- **Your own succession is unfinished.** The study can document its design; it can't report its outcome.
-- **P20 will be uncomfortable.** "Multipliers want freedom; dependents want security" predicts your own best people left wherever autonomy was constrained. Testing it honestly means looking hard at departures you may prefer to explain differently.
+## The design, in three levels
 
-**Two things are now time-critical.** The people who served through 1970–2000 are ageing, and their testimony is perishable — those interviews belong in year one, not year three. And the pre-2000 records need an audit before you commit to the design, because how much survives determines how much weight the succession analysis can carry.
+The predecessor case is **withdrawn** at your direction. Nothing in the study now touches your family. What replaces it is stronger:
+
+| Level | What | Tests |
+|---|---|---|
+| **A** | The ~21 units, 2000–2026, full population including closures | Most of the register |
+| **B** | ~30–50 **campus-level leadership transitions** | P1, P12, P13 |
+| **C** | New units launched 2027 on — **predictions lodged before launch** | The priority propositions, live |
+
+**Level B recovers everything the withdrawn case was going to do, with forty times the cases.** Every campus handover since 2000 is a natural experiment with a before and an after — pastors appointed, promoted, moved, departed, removed. Two are already in the book: the campus Janine inherited after her predecessor left and took people with him, and the Australian campus that passed to Josh. n=1 could illustrate mechanism; n=40 establishes pattern.
+
+**Level C is the one that will make a panel sit up.** *Multiply or Die* was published in 2026, so every unit launched from now on can be predicted in advance using the book's own framework. Score it, lodge a dated prediction with the supervisory panel, launch, compare. Hindsight bias is eliminated because the prediction pre-dates the result. Almost nobody can run this design — you can, because you control the planting pipeline and the propositions are already published.
+
+It also rescued **P4**, which I'd written off as untestable: at each appointment, you and other long-tenured leaders record predictions alongside shorter-tenured ones, sealed, compared at 24 and 48 months. The book predicts *your* accuracy is worse than theirs. Putting that on record in advance is an unusually strong signal of good faith.
+
+**One hard requirement on Level C:** you will have a live interest in your own predictions proving right, on decisions affecting real congregations. That needs a firewall — predictions sealed with the panel, planting decisions made through normal governance without reference to the research, and any unit where the study may have influenced a decision excluded and reported as excluded. Put it in the ethics application. You will be asked.
+
+**Still uncomfortable:** P20. "Multipliers want freedom; dependents want security" predicts your best people left wherever autonomy was constrained. Testing it honestly means looking hard at departures you may prefer to explain differently.
 
 ---
 
@@ -74,7 +89,8 @@ Three things to sit with before anyone else raises them:
 | **05** | [Critical commentary plan](05-critical-commentary-plan.md) | Optional strengthener, and a year of thesis work banked early |
 | **06** | [Expression of Interest](06-expression-of-interest.md) | What to submit first, plus eleven questions to put to AC in writing |
 | **07** | [Referees & checklist](07-referees-and-checklist.md) | Referees, documents, timeline, costs, risks |
-| **08** | [Proposition register](08-proposition-register.md) | **The book's 24 claims formalised and classified by what could falsify them** — the analytical spine of the commentary and of thesis chapter 8 |
+| **08** | [Proposition register](08-proposition-register.md) | **The book's 24 claims formalised and classified by what could falsify them** — the analytical spine of the commentary and the thesis |
+| **09** | [Design without the predecessor](09-design-without-the-predecessor.md) | **Why a thesis can't be advocacy — and the three-level design that replaces the withdrawn case** |
 
 ---
 

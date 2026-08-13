@@ -3,27 +3,27 @@
 **Applicant:** Ashley Mark Evans
 **Proposed award:** Doctor of Ministry (DMin) — Alphacrucis University
 **Proposed mode:** Part-time (6 years)
-**Date:** August 2026 *(rev. 2 — extended to the predecessor generation)*
+**Date:** August 2026 *(rev. 3 — predecessor case withdrawn; prospective component added)*
 
 ---
 
 ## Working title
 
-**Multiplication Architecture: Founder Succession and the Conditions of Sustained Church Multiplication in a Transnational Network, 1970–2026**
+**Multiplication Architecture: Testing a Practitioner Model of Church Multiplication Across a Transnational Network, 2000–2030**
 
 ---
 
 ## 1. Abstract
 
-Church multiplication is widely advocated and poorly evidenced. The practitioner literature asserts principles; the empirical literature rarely follows a single organisational line across enough plants, enough countries, enough leadership generations and enough years to distinguish what transfers from what was circumstantial.
+Church multiplication is widely advocated and poorly evidenced. The practitioner literature asserts principles; the empirical literature rarely follows a single network across enough units, enough countries and enough years to distinguish what transfers from what was circumstantial. When plants fail, the failures are rarely studied and almost never published, so the field's evidence base is systematically censored toward success.
 
-This study takes one unusually well-documented case: a congregation led by one senior pastor from 1970 to 2000, transferred to his son in 2000, and subsequently multiplied into a transnational network of twenty-one campuses across four countries. It asks which conditions distinguish units that sustain multiplication from those that plateau or close — and, crucially, **what happened at the succession**.
+This study takes one unusually well-documented case — a transnational network that grew to twenty-one campuses across four countries between 2000 and 2026, planting more than twenty-one churches in the last twelve years, with flourishing, plateaued and closed outcomes among them — and asks which conditions distinguish units that sustain multiplication from those that do not.
 
-The design is deliberately constructed as a **test of assertions the researcher has already published**. The candidate's book *Multiply or Die* (2026) advances twenty-four propositions about multiplication, formalised and classified in a separate register. Those propositions were derived inductively from practice and have never been systematically examined. This research treats them as falsifiable hypotheses, subjects them to comparative analysis including negative cases, and reports where they hold, where they fail, and where the evidence contradicts them.
+The design is constructed as a **test of assertions the researcher has already published**. The candidate's book *Multiply or Die* (2026) advances twenty-four propositions about multiplication, formalised and classified with falsification conditions in a separate register (document 08). Those propositions were derived inductively from four decades of practice and have never been systematically examined.
 
-**The 1970–2000 predecessor period is what makes the study's central claim testable.** The book asserts that addition dies with the leader while multiplication outlives them. Testing that requires observing an organisation across a completed founder-to-successor transition — which this case supplies, with a twenty-six-year follow-up.
+The study operates at three levels: **retrospective comparison** across the full population of units; **succession analysis** across some thirty to fifty campus-level leadership transitions; and — distinctively — a **prospective, pre-registered component** in which predictions derived from the book are lodged with the supervisory panel before new units launch, and compared against outcomes as they occur. The prospective element is what removes hindsight bias, and it is possible only because the propositions were published before the units it will test came into existence.
 
-Intended contributions: an empirically grounded model of transferable multiplication conditions; a longitudinal account of founder succession in a founder-led ecclesial organisation, examined from the successor's side; a documented account of multiplication *failure* in a tradition that under-reports it; and a methodological contribution on insider research where the researcher is both successor and incumbent.
+Intended contributions: an empirically grounded model of transferable multiplication conditions; a multi-case account of leadership succession at unit level; a documented account of multiplication *failure* in a tradition that under-reports it; and a methodological contribution on conducting rigorous insider research where the researcher is both incumbent leader and published advocate.
 
 ---
 
@@ -31,48 +31,33 @@ Intended contributions: an empirically grounded model of transferable multiplica
 
 ### 2.1 The practical problem
 
-Church planting movements invest heavily in multiplication with limited evidence about which factors are causal, which correlational, and which artefacts of a particular leader, city or moment. Networks replicate the visible features of successful units without knowing whether those features carried the outcome. When plants fail, the failures are rarely studied and almost never published, so the field's evidence base is systematically censored toward success.
+Church planting movements invest heavily in multiplication with limited evidence about which factors are causal, which correlational, and which artefacts of a particular leader, city or moment. Networks replicate the visible features of successful units — the service style, the launch strategy, the staffing template — without knowing whether those features carried the outcome.
 
-Succession is worse served still. The moment at which a founder-led organisation changes hands is the single highest-risk event in its life, and the literature on it in ecclesial settings is thin, largely prescriptive, and almost never written from inside a transition with decades of subsequent data.
+Two consequences follow. Failure goes unstudied, so the evidence base is distorted. And leadership transition at unit level — the most common high-risk event in any multi-site network — is treated as an administrative matter rather than as the point at which a unit's underlying architecture is revealed.
 
-### 2.2 The case
+### 2.2 The researcher's position
 
-The organisational line under study spans four generations and approximately 125 years:
+I have led Futures Church Global since 2000, developing a single Adelaide congregation into a network of twenty-one campuses across Australia, the United States, Indonesia and Brazil. Over the last twelve years the network planted more than twenty-one churches. Most flourished. At least one closed as a direct result of a decision I made against our own stated criteria. I served fourteen years as a national director across a movement of more than a thousand churches, and ten years as a state president.
 
-| Gen | Leader | Period | Scope |
-|---|---|---|---|
-| 1 | Thomas Evans (b. 1901) | c.1920s–1990s | Welsh coal miner; Bible college under Howard Carter; ~30 years missionary in India; Papua New Guinea revival — some 3,000 churches trace to that work; planted his last church at ninety |
-| 2 | Andrew Evans (b. 1935) | 1970–2000 | Born in India; AOG World Missions, East Sepik PNG 1963–69; Senior Pastor, Klemzig AOG from 1970, relocating to Paradise in 1982; grew weekly attendance from ~150 to 2,000+; national denominational leadership; founded the Family First Party in 2001 and served as a South Australian Legislative Councillor |
-| 3 | **Ashley Evans** (the candidate) | 2000–present | Received the church in 2000; developed it into Futures Church Global — 21 campuses across Australia, the United States, Indonesia and Brazil; 21+ churches planted in the last twelve years |
-| 4 | Three sons | in progress | All in ministry |
+This gives me two things no external researcher has: **access** — to twenty-six years of internal records, to the leaders of every unit including those that closed, and to the decision rationale behind each — and **a documented prior position**, published as *Multiply or Die*, which can be tested rather than quietly assumed.
 
-**Two completed founder-successions and one in progress.** That is what a single-generation study cannot offer, and it is the design's principal asset.
+It also gives me the study's central methodological problem, addressed at length in §5.5.
 
-### 2.3 The researcher's position
+### 2.3 Scope
 
-I am the third-generation leader of this line. I received the organisation in 2000 and have led it since. This gives me three things no external researcher has:
+The study is scoped to the network I have led since 2000, where I hold the complete archive and can access the full population of units. It does not extend into the preceding generation of the organisation's history: doing so would add a single additional case at significant cost to data quality, and would draw in people who are not participants in this research.
 
-- **Access** — to the organisational archive, to the leaders of every plant including those that closed, and to the decision rationale behind each.
-- **A documented prior position** — published as *Multiply or Die*, which can be tested rather than quietly assumed.
-- **First-hand experience of the receiving end of a founder succession** — the perspective almost entirely absent from a literature written by and about departing founders.
+### 2.4 The gap in the literature
 
-It also gives me the study's central methodological problem, addressed in §5.4.
+Three bodies of work bear on this and none resolves it.
 
-### 2.4 A documented tension worth investigating
+- **Church growth and church planting literature** — predominantly prescriptive and practitioner-authored, with limited comparative empirical design and strong survivorship bias.
+- **Organisational studies of religious institutions** — organisational ecology, institutional isomorphism, leadership-transition research. Offers analytical purchase but is rarely applied to multi-site ecclesial networks spanning Global North and Global South simultaneously.
+- **Leadership pipeline and generative leadership theory** — transferable constructs for leader development at scale, developed largely in corporate settings and not tested against volunteer-dependent, theologically-motivated organisations.
 
-Public accounts describe the church as having grown continuously to 2,000+ under my predecessor and continued growing after 2000. My own account has consistently described receiving the church in a **declining season**.
+The gap is a population-complete, multi-country study of a single network that includes failure cases, examines succession at unit level with real case numbers, and tests published practitioner claims prospectively rather than retrospectively.
 
-Both may be true — aggregate attendance and underlying health are different measures, and a congregation can be at peak size and past peak vitality simultaneously. **The discrepancy is not an inconvenience to be resolved in the introduction; it is a finding to be investigated.** The gap between an organisation's public narrative and its internal condition at the point of succession is precisely the kind of thing this literature lacks and this study is positioned to document.
-
-### 2.5 The gap in the literature
-
-Three bodies of work bear on this; none resolves it.
-
-- **Church growth and church planting literature** — predominantly prescriptive, practitioner-authored, limited comparative design, strong survivorship bias.
-- **Organisational studies of religious institutions** — organisational ecology, institutional isomorphism, founder-transition research. Offers analytical purchase; rarely applied to multi-site ecclesial networks spanning Global North and Global South simultaneously.
-- **Family business succession research** — a substantial and methodologically mature literature on intergenerational transfer in founder-led organisations, almost never brought into conversation with ecclesial succession despite the structural similarities. **Bringing it across is one of this study's more distinctive moves.**
-
-The gap is a longitudinal, multi-generational, multi-country study of a single organisational line that includes failure cases, spans a completed succession, and is explicit about the theological commitments shaping the organisation studied.
+*A full literature review will be developed during candidature; the above indicates the fields to be surveyed, not a finished review.*
 
 ---
 
@@ -80,31 +65,29 @@ The gap is a longitudinal, multi-generational, multi-country study of a single o
 
 **Primary:**
 
-> What organisational, theological and leadership conditions distinguish church units that achieve sustained multiplication from those that plateau or close, across a single organisational line between 1970 and 2026 — and how does founder succession alter those conditions?
+> What organisational, theological and leadership conditions distinguish church units that achieve sustained multiplication from those that plateau or close, within a single transnational network between 2000 and 2030?
 
 **Subsidiary:**
 
 1. Which of the propositions advanced in *Multiply or Die* are supported by systematic comparative evidence, and which are not? *(24 propositions formalised in document 08.)*
-2. **What changed at the 2000 succession?** Which of the predecessor's growth conditions transferred, which were abandoned, and which were reconstructed differently — and what does the subsequent twenty-six years show about the consequences?
-3. Did the 2000 transition transfer all five of the "batons" the book identifies (title, responsibility, authority, relationships, vision), and how did any incomplete transfer manifest?
+2. **When a unit's leader departs, what predicts whether the unit continues, plateaus or declines?** Specifically: do units whose growth depended on the leader's direct output behave differently at transition from units whose growth depended on leader-production?
+3. Which elements of leadership authority must transfer at a handover for the transition to succeed, and what happens when transfer is partial?
 4. How do the conditions for sustained multiplication differ across national contexts (Australia, United States, Indonesia, Brazil), and what does that variation reveal about which conditions are transferable versus context-dependent?
 5. What role does leader-development architecture play in distinguishing sustained multiplication from plateau?
-6. What can be learned from the network's failed and closed plants that its successful plants cannot show?
-7. How does founder-centrality function as both enabler and constraint across two generations of leadership?
+6. What can be learned from the network's failed and closed units that its successful units cannot show?
+7. **Do predictions derived from the model, lodged before a new unit launches, hold?**
 
 ---
 
 ## 4. Conceptual framework
 
-Four lenses:
+**Organisational ecology and institutional theory** — each unit as an organisation in an environment, attending to founding conditions, resource dependence, and the density of the local ecclesial field. This supplies the vocabulary for asking why identical strategies produced divergent outcomes in Adelaide, Alpharetta, Bogor and São Paulo.
 
-**Organisational ecology and institutional theory** — each unit as an organisation in an environment; founding conditions, resource dependence, density of the local ecclesial field.
+**Leadership pipeline / generative leadership theory** — treating multiplication as fundamentally a *leader-production* problem rather than a *congregation-production* problem. This directly operationalises the book's core claim that addition dies with the leader while multiplication compounds.
 
-**Leadership pipeline / generative leadership theory** — multiplication as fundamentally a *leader-production* problem rather than a *congregation-production* problem.
+**Leadership succession research** — including the methodologically mature family-business literature on transfer of authority, legitimacy and relational capital in founder-led organisations, which has structural parallels to ecclesial succession and is rarely brought across.
 
-**Founder succession and family business research** — the transfer of authority, legitimacy and relational capital across generations in owner/founder-led organisations. The structural parallels to ecclesial succession are close and under-exploited.
-
-**Theology of multiplication** — the organisation is theologically motivated and its decisions theologically justified; a framework bracketing this would misdescribe the case. The Genesis mandate, apostolic sending patterns and the theology of generational succession are treated as *live causal factors in participants' reasoning*, analysed as such rather than assumed true or dismissed.
+**Theology of multiplication** — the organisation is theologically motivated and its decisions theologically justified; a framework that bracketed this would misdescribe the case. The Genesis mandate, apostolic sending patterns and the theology of generational succession are treated as *live causal factors in participants' reasoning*, analysed as such rather than assumed true or dismissed.
 
 Where the organisational and theological readings of the same event diverge, that divergence is data.
 
@@ -112,112 +95,125 @@ Where the organisational and theological readings of the same event diverge, tha
 
 ## 5. Methodology
 
-### 5.1 Design
+### 5.1 Design — three levels
 
-**Longitudinal, comparative, multi-generational case study** using insider practitioner research, with an embedded mixed-methods component and an **embedded single-case analysis of the 2000 succession**.
+| Level | Unit of analysis | n | Design | Propositions tested |
+|---|---|---|---|---|
+| **A** | The church unit / plant | ~21–25 incl. closed | Retrospective comparative multiple-case + QCA | P2, P5–P11, P16, P17, P19, P22 |
+| **B** | The leadership transition | ~30–50 | Retrospective multiple-case succession analysis | **P1**, P12, P13 |
+| **C** | The newly launched unit | ~4–8 | **Prospective, pre-registered prediction** | Priority propositions, live |
 
-Two levels of analysis:
+Case selection at Levels A and B is **the full population**, not a sample. Every unit initiated and every leadership transition occurring between 2000 and 2026 is included, whatever the outcome. Including the full population is what removes survivorship bias, and it is only possible because of insider access.
 
-| Level | Unit | n | Design |
-|---|---|---|---|
-| **A** | The individual church unit / plant | ~21–25 incl. closed | Comparative multiple-case; full population |
-| **B** | The organisational line across leadership generations | 1970–2026 | Longitudinal single case with an embedded succession analysis |
+### 5.2 Level B — why succession at unit level
 
-Level A tests the mechanism propositions. **Level B tests the outcome proposition that Level A alone cannot reach.**
+The book's central claim (P1) is that growth built on a leader's own output dies with that leader, while growth built on leader-production continues. Testing it requires observing organisations across leadership change.
 
-Case selection at Level A: **the full population**, not a sample. Every unit initiated between 1970 and 2026, whether it flourished, plateaued, merged or closed. Including the full population is what removes survivorship bias, and it is only possible because of insider access.
+The network supplies a large number of such events: pastors appointed, promoted, relocated, departed and removed across twenty-one campuses over twenty-six years. Two are already documented in the book — the campus inherited after a predecessor left and took part of the congregation with him, and the Australian campus that passed to its current leader following an attempted takeover.
 
-### 5.2 Data sources
+**Each transition is a natural experiment with a before and an after**, and the network's own records supply both. Thirty to fifty cases can establish pattern where a single case could only illustrate mechanism.
+
+**Operationalisation:** For each transition, code the outgoing leader's operating mode (share of growth attributable to direct personal output versus leader-production), the completeness of authority transfer across the five elements the book identifies, and the circumstances of departure. Compare against unit outcomes at 24 and 60 months post-transition, controlling for unit size, age and context.
+
+### 5.3 Level C — prospective, pre-registered prediction
+
+*Multiply or Die* was published in 2026. Every unit launched after that date can be predicted **in advance** using the book's own framework, before any outcome is known.
+
+**Protocol:**
+
+1. Before launch, the unit is scored against the relevant propositions — leader H.E.A.T. profile, 4D coverage across the development team, architecture, culture diagnostics, financial model.
+2. A **written, dated prediction is lodged with the supervisory panel** and not revisited.
+3. The unit launches through the network's normal governance process.
+4. Outcomes are compared against the lodged prediction at fixed intervals.
+
+This eliminates hindsight bias, because the prediction pre-dates the result. It is the component most likely to distinguish this thesis from a retrospective account, and it is available because the propositions were published before the units that will test them existed.
+
+**Conflict of interest — declared and firewalled.** This design gives the researcher an interest in his own predictions proving correct, in relation to decisions affecting real congregations and real leaders. Mitigations, which will be specified in the ethics application:
+
+- Predictions are lodged with the panel and are not visible to anyone involved in planting decisions.
+- Launch, staffing and resourcing decisions are made through the network's existing governance process, documented independently of the research.
+- **An explicit protocol that the study must never influence a planting decision**, with the independent gatekeeper empowered to exclude any unit where influence is suspected.
+- Any unit where the researcher's involvement deviated from normal practice is excluded from Level C and reported as excluded.
+
+### 5.4 Data sources
 
 | Source | Description |
 |---|---|
-| **Archival quantitative, 2000–2026** | Attendance, giving, volunteer and staff counts, leaders produced and sent, plant-to-plant lineage, by unit by year |
-| **Archival quantitative, 1970–2000** | Predecessor-era attendance, giving and staffing records — extent to be established by audit (see §9) |
-| **Archival qualitative** | Board minutes, planting proposals, launch plans, post-mortems, correspondence, across both eras |
-| **Predecessor's own published work** | Including *Church Growth through Prayer* and sermon archives — primary sources documenting the predecessor's stated theory of growth, against which actual practice can be compared |
-| **Denominational records** | Assemblies of God / ACC national and state records covering both leaders' tenures |
-| **Semi-structured interviews** | Lead/campus pastors of every unit (target n ≈ 30–40), including closed plants and leaders who have left the network |
-| **Predecessor-era interviews** | Elders, staff and members active during the 1970–2000 period and through the transition — a cohort that is ageing, which makes this data collection **time-critical** |
+| **Archival quantitative** | Attendance, giving, volunteer and staff counts, leaders produced and sent, unit-to-unit lineage, by unit by year, 2000–2026 |
+| **Archival qualitative** | Board minutes, planting proposals, launch plans, post-mortems, internal correspondence |
+| **Transition records** | Appointment and departure documentation for every leadership change |
+| **Semi-structured interviews** | Lead/campus pastors of every unit (target n ≈ 30–40), including those of closed units and those who have since left the network |
+| **Tracer strand** | Every leader developed and sent by the network since 2000, tracked to current position — including those who left the network and those who left ministry |
+| **Prospective records** | Lodged predictions and subsequent outcome data for Level C units |
 | **Documentary** | *Multiply or Die*, treated as a primary source documenting the researcher's prior position |
 
-Including **leaders who have left the network, on poor terms as well as good**, is essential and non-negotiable. A study of this organisation that interviewed only its current staff would produce exactly the flattery the field already suffers from.
+The inclusion of **leaders who have left the network, on poor terms as well as good**, is essential and non-negotiable. A study of this network that interviewed only its current staff would produce exactly the flattery this field already suffers from. The tracer strand exists partly to reach the people least likely to volunteer favourable testimony.
 
-> **On interviewing the predecessor:** whether first-person testimony from the second-generation leader is available materially affects what Level B can establish. `[CONFIRM — and if it is not available, the design leans correspondingly harder on his published work, denominational records, and surviving contemporaries, which should be stated as a limitation rather than absorbed silently.]`
+### 5.5 Analysis, and the confirmation problem
 
-### 5.3 Analysis
+I am the incumbent leader of the organisation under study. I appointed most participants. I made many of the decisions being evaluated. I have published a book asserting the conclusions this study is meant to test.
 
-- **Within-case:** chronological reconstruction of each unit from founding conditions to current state.
-- **Cross-case:** structured comparison on a pre-registered set of conditions, using qualitative comparative analysis (QCA) to identify which combinations are necessary and/or sufficient for sustained multiplication.
-- **Succession analysis:** interrupted time series across the 2000 transition on the quantitative measures, with process-tracing on the qualitative record to identify mechanism.
-- **Proposition testing:** the book's claims are already extracted and formalised into a **register of 24 propositions** (document 08), each classified by claim-type and falsification condition. **The register is fixed before analysis begins** and lodged with the supervisory panel, so post-hoc rationalisation is visible if it occurs.
-- **Negative case analysis:** closed and plateaued units are analysed *first*, before successful ones, to counter the pull toward confirmatory reading.
+Together these create a structural pull toward confirmation. The response is not to deny it but to build a design in which **the researcher's preferences cannot reach the result**:
 
-**Priority propositions:** the leader as ceiling (P2), the 4D Protocol as necessary sequence (P9), the five batons of succession (P12), boundary-based governance (P16), culture over strategy (P19) — and now **P1, the addition/multiplication outcome claim**, which the predecessor period brings within reach.
+1. **The proposition register is fixed and lodged before analysis begins** (document 08), with operational definitions and falsification conditions stated in advance.
+2. **Independent recruitment and interviewing.** Participants are recruited and interviewed by an independent researcher. I do not know who declined.
+3. **Anonymised transcripts.** I receive de-identified transcripts only.
+4. **Negative cases first.** Closed and plateaued units are analysed before successful ones.
+5. **An independent gatekeeper** with authority to exclude any participant, question, unit or finding, and to halt the study.
+6. **A critical friend** external to the network who reviews analysis for confirmatory drift and whose dissent is recorded in the thesis.
+7. **Reflexive journal**, reported in the methodology chapter, documenting where prior commitments were challenged and how I responded.
+8. **Disconfirmation as a success criterion**, stated in the proposal, the ethics application, and to participants.
 
-### 5.4 The insider problem — and what is done about it
+**Analytical methods:** within-case chronological reconstruction; cross-case comparison using qualitative comparative analysis to identify necessary and sufficient combinations of conditions; interrupted time series across leadership transitions; and prediction-versus-outcome comparison at Level C.
 
-I am the incumbent leader of the organisation under study, the successor in the transition being analysed, and the son of the leader whose tenure forms the comparison period. I appointed most Level A participants. I made many of the decisions being evaluated. I have published a book asserting the conclusions this study is meant to test.
+**Priority propositions:** P1 (addition dies with the leader), P2 (the leader as ceiling), P9 (the 4D Protocol as a necessary sequence), P12 (the five elements of authority transfer), P16 (boundary-based governance), P19 (culture over strategy).
 
-Each is a threat to validity; together they are the defining methodological challenge of the project. Insider practitioner research is an established tradition and the access it affords is what makes this possible — but the controls must be built in from the start:
-
-1. **Independent recruitment and interviewing.** Participants are recruited and interviewed by an independent researcher, not by me. I do not know who declined.
-2. **Anonymised transcripts.** I receive de-identified transcripts only.
-3. **An independent gatekeeper** with authority to exclude any participant, question or finding on welfare grounds, and to halt the study.
-4. **A critical friend** external to the network — ideally a scholar with no relationship to the movement — who reviews analysis for confirmatory drift and whose dissent is recorded in the thesis.
-5. **Reflexive journal**, maintained throughout and reported in the methodology chapter.
-6. **Disconfirmation as a success criterion**, stated in the proposal, the ethics application, and to participants.
-7. **Specific to Level B:** the succession analysis evaluates my predecessor's leadership and my own inheritance of it. Filial loyalty and its opposite are both live biases. The critical friend's remit explicitly covers this, and the pre-registered coding frame for the succession analysis is fixed before the predecessor-era data is examined.
-
-### 5.5 Ethics
+### 5.6 Ethics
 
 Formal approval will be sought from AC's Human Research Ethics Committee prior to any data collection. Principal concerns:
 
-- **Power asymmetry.** Staff cannot freely decline a request from their Global Senior Pastor. Addressed by §5.4(1)–(3), plus written assurance — delivered by the independent gatekeeper, not by me — that participation, non-participation and withdrawal carry no employment consequence.
-- **Participants who left under difficult circumstances.** Highest risk of harm and highest evidential value. Independent conduct, withdrawal at any point up to submission, review of their own quoted material.
-- **Family.** Level B analyses my father's leadership and his succession decision. Surviving family members — my mother, my siblings — have a legitimate interest in how that period is characterised, and some may be participants. Public sources conflict even on basic details of the family. This requires explicit consultation with family members before publication of the succession chapter, and a documented process for handling disagreement that does not simply default to my account.
+- **Power asymmetry.** Staff cannot freely decline a request from their Global Senior Pastor. Addressed by §5.5(2)–(3), plus written assurance — delivered by the independent gatekeeper, not by me — that participation, non-participation and withdrawal carry no employment consequence.
+- **Participants who left under difficult circumstances.** Highest risk of harm and highest evidential value. Independent conduct, withdrawal at any point up to submission, and review of their own quoted material before publication.
+- **Level C conflict of interest.** As set out in §5.3. The firewall is the substance of this section, not a formality.
 - **Confidentiality in a small, identifiable population.** With ~21 units, a named country plus a year identifies a person. Requires composite reporting and, in some cases, agreed suppression of detail.
-- **Organisational reputational risk.** Findings may be unflattering to the network I lead or to the predecessor I succeeded. The gatekeeper arrangement and supervisory panel exist partly so that publishing an uncomfortable finding is not my decision alone.
+- **Organisational reputational risk.** Findings may be unflattering to the network I lead. The gatekeeper arrangement and supervisory panel exist partly so that the decision to publish an uncomfortable finding is not mine alone.
 
 ---
 
 ## 6. Anticipated contributions
 
-**To knowledge:** A population-complete, fifty-six-year, four-country, multi-generational account of church multiplication that includes failures and spans a completed founder succession — a dataset with, to my knowledge, no close equivalent.
+**To knowledge:** A population-complete, twenty-six-year, four-country comparative account of church multiplication that includes failures, with a succession analysis across thirty to fifty transitions and a prospective predictive component — a combination with, to my knowledge, no close equivalent in this field.
 
 **To practice:** A model of multiplication conditions distinguishing the transferable from the context-dependent, usable by networks other than my own.
 
-**To succession research:** An account of founder-to-successor transition in an ecclesial organisation written from the successor's side, with twenty-six years of subsequent data — and an explicit bridge between the family business succession literature and ecclesial practice.
-
-**To method:** A worked, critically examined protocol for insider research where the researcher is simultaneously incumbent, successor and published advocate.
+**To method:** A worked protocol for insider practitioner research where the researcher is simultaneously the incumbent leader and the published advocate of the propositions under test — including a pre-registration design for practitioner-authored claims.
 
 **To the tradition:** A documented, publishable account of multiplication failure, in a movement whose evidence base is distorted by the reluctance to report it.
 
-### 6.1 What the predecessor period resolves — and what it does not
+### 6.1 Limitations stated up front
 
-Extending the case to 1970 brings the book's central claim (P1) within testing range: the organisation can now be observed across a completed founder-to-successor transition with a long follow-up.
-
-Two honest qualifications remain:
-
-- **n=1 at Level B.** One succession, however well documented, cannot establish a general law. It can establish mechanism, sequence and plausibility, and it can falsify. It cannot generalise on its own, and the thesis will not claim otherwise.
-- **The current transition is unfinished.** My own succession to the fourth generation is in progress, not complete. The study can document its design and early execution; it cannot report its outcome.
+- **Single network.** Findings are internally valid for this network; generalisation beyond it is a matter for subsequent comparative work. External cases would strengthen this and are noted as a possible extension.
+- **The researcher's position.** No set of controls fully eliminates insider bias. The controls in §5.5 reduce it and make its operation visible; they do not abolish it, and the thesis will not claim they do.
+- **Level C horizon.** A six-year candidature can observe early outcomes for prospectively-predicted units, not mature ones. Predictions will be specified at horizons the study can actually reach.
 
 ---
 
 ## 7. Indicative structure
 
 1. Introduction: the problem, the position, the case
-2. Literature review: multiplication, organisational ecology, leadership pipelines, founder succession, insider research
-3. Methodology and ethics
-4. The line 1970–2026: a documentary history across two generations
-5. The 2000 succession: an embedded case analysis
-6. Within-case analyses: flourishing units
-7. Within-case analyses: plateaued and closed units
-8. Cross-case comparison and QCA
-9. Testing the propositions of *Multiply or Die*
-10. Toward a model of multiplication architecture
-11. Implications, limitations, and what I got wrong
+2. Literature review: multiplication, organisational ecology, leadership pipelines, succession, insider research
+3. Methodology, pre-registration and ethics
+4. The network 2000–2026: a documentary history
+5. Within-case analyses: flourishing units
+6. Within-case analyses: plateaued and closed units
+7. Cross-case comparison and QCA
+8. Leadership transitions: a multi-case succession analysis
+9. The prospective test: predictions and outcomes
+10. Testing the propositions of *Multiply or Die*
+11. Toward a model of multiplication architecture
+12. Implications, limitations, and what I got wrong
 
-Chapter 11's title is deliberate and will not be softened.
+Chapter 12's title is deliberate and will not be softened.
 
 ---
 
@@ -225,33 +221,33 @@ Chapter 11's title is deliberate and will not be softened.
 
 | Year | Focus |
 |---|---|
-| 1 | Coursework; research methods; literature review; ethics approval; confirmation of candidature. **Predecessor-era interviews begin immediately — this cohort is ageing and the data is perishable** |
-| 2 | Archival assembly and cleaning, both eras; documentary history; succession coding frame fixed |
+| 1 | Coursework; research methods; literature review; ethics approval; confirmation of candidature. **Level C pre-registration protocol established and first predictions lodged** |
+| 2 | Archival assembly and cleaning; documentary history; transition dataset constructed |
 | 3 | Interview fieldwork — Australia and United States; succession analysis |
-| 4 | Interview fieldwork — Indonesia and Brazil; within-case analysis |
-| 5 | Cross-case analysis; QCA; proposition testing |
+| 4 | Interview fieldwork — Indonesia and Brazil; tracer strand; within-case analysis |
+| 5 | Cross-case analysis; QCA; proposition testing; Level C first outcome comparisons |
 | 6 | Writing, critical friend review, submission |
 
-Fieldwork is scheduled against travel I already undertake, which materially reduces the cost and time burden of a four-country study.
+Level C predictions are lodged from year 1 so that outcome data has the longest possible run inside the candidature. Fieldwork is scheduled against travel already undertaken as Global Senior Pastor, materially reducing the cost and time burden of a four-country study.
 
 ---
 
 ## 9. Resources and feasibility
 
-- **Data access, 2000–2026:** Secured — I am the custodian of the archival record.
-- **Data access, 1970–2000:** **To be audited before candidature.** Denominational, congregational and property records from the predecessor era may be incomplete, dispersed across the church, the ACC and family holdings, or lost. The extent of what survives determines how much weight Level B can bear, and the audit must happen before the design is committed to.
-- **Participant access:** Secured for current leaders; requires careful independent approach for departed leaders; **time-critical** for the predecessor-era cohort.
-- **Funding:** Self-funded / network-supported. Independent researcher and transcription costs to be budgeted — validity controls, not optional extras.
-- **Supervision:** Requires a principal supervisor in practical theology/ecclesiology or organisational studies of religion, and a second with qualitative comparative methods expertise. Expertise in founder succession would now be a significant asset. *[To be discussed with AC's Graduate Research School.]*
+- **Data access:** Secured — I am the custodian of the archival record.
+- **Participant access:** Secured for current leaders; requires careful independent approach for departed leaders and for the tracer strand.
+- **Archive audit:** To be completed before candidature — confirming that unit-level records across all four countries are genuinely retrievable, and scoping the study honestly to what exists.
+- **Funding:** Self-funded / network-supported. Independent researcher and transcription costs to be budgeted — these are validity controls, not optional extras.
+- **Supervision:** Requires a principal supervisor with expertise in practical theology/ecclesiology or organisational studies of religion, and a second with qualitative comparative methods expertise. *[To be discussed with AC's Graduate Research School.]*
 
 ---
 
 ## 10. Relationship to prior published work
 
-*Multiply or Die* (2026, ~84,000 words) is submitted as evidence of sustained engagement with this subject, not as research output. Its status here is **primary source and hypothesis generator**. Its propositions are the object of study, not the findings of it.
+*Multiply or Die* (2026, ~84,000 words) is submitted as evidence of sustained engagement with this subject, not as research output. Its status in this project is **primary source and hypothesis generator**. Its propositions are the object of study, not the findings of it.
 
-Document 08 sets out all twenty-four propositions in formal terms with their falsification conditions. A critical commentary (document 05) situates the book in the literature and states explicitly what in it is assertion and what is evidenced. That commentary — not the book — is offered as the demonstration of research capacity.
+Document 08 states all twenty-four propositions formally with their falsification conditions. A critical commentary (document 05) situates the book in the literature and states explicitly what in it is assertion and what is evidenced. That commentary — not the book — is offered as the demonstration of research capacity.
 
 ---
 
-*Word count: ~2,300. AC's required proposal length is to be confirmed; this can be expanded or condensed to specification.*
+*Word count: ~2,200. AC's required proposal length is to be confirmed; this can be expanded or condensed to specification.*

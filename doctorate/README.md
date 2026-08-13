@@ -41,10 +41,25 @@ Very few applicants can credibly propose to find out whether they were wrong. Yo
 
 **Document 08 does this work for real.** Every chapter of *Multiply or Die* states an explicit Law. All twenty-four are now extracted, stated formally, and classified by what evidence could falsify them: 14 testable against your own dataset, 7 needing outside comparison, 3 theological rather than empirical — and 9 of the book's most memorable devices (Whitefield and Wesley, Jacob's flocks, WeWork, the tearless onions) classified as illustration carrying no evidential weight.
 
-Two findings in there you should sit with before anyone else raises them:
+## The succession is the study's best asset
 
-- **The book's central claim can't be tested by this study.** That addition dies with the leader and multiplication outlives them requires observing a founder succession — and you haven't had one. It goes in the abstract, not a footnote.
-- **P20 will be uncomfortable.** "Multipliers want freedom; dependents want security" predicts that your own best people left wherever autonomy was constrained. Testing it honestly means looking hard at departures you may prefer to explain differently.
+The design originally started the case in 2000 and treated the book's central claim as untestable — you can't observe whether multiplication outlives a leader without a completed succession.
+
+**That was wrong, and you caught it.** The organisation was led by your father from 1970 to 2000 — Klemzig, then Paradise from 1982, growing from about 150 to over 2,000 — and transferred to you in 2000. That is a **completed founder-to-successor transition with twenty-six years of follow-up**, already inside the case.
+
+The proposal now runs **1970–2026** at two levels: the ~21 units compared against each other, and the organisational line across leadership generations. P1 is reclassified as testable, and the five-baton succession proposition (P12) gains a second test against the transition you personally received.
+
+The decisive analytical question: your father's thirty-year growth from 150 to 2,000+ — was it built by **addition** (his own preaching, reach and reputation) or by **multiplication** (leader-production)? P1 predicts the addition-share determines how sharp the discontinuity at handover was.
+
+**And the tension is the finding.** Public accounts describe continuous growth. Your account describes receiving the church in a declining season. Both can be true — peak attendance and peak vitality don't have to coincide. The gap between an organisation's public narrative and its internal condition at succession is exactly what this literature lacks. Don't resolve it in the introduction; investigate it.
+
+Three things to sit with before anyone else raises them:
+
+- **n=1 at the succession level.** One transition establishes mechanism and can falsify. It cannot generalise alone, and the thesis shouldn't claim it does.
+- **Your own succession is unfinished.** The study can document its design; it can't report its outcome.
+- **P20 will be uncomfortable.** "Multipliers want freedom; dependents want security" predicts your own best people left wherever autonomy was constrained. Testing it honestly means looking hard at departures you may prefer to explain differently.
+
+**Two things are now time-critical.** The people who served through 1970–2000 are ageing, and their testimony is perishable — those interviews belong in year one, not year three. And the pre-2000 records need an audit before you commit to the design, because how much survives determines how much weight the succession analysis can carry.
 
 ---
 

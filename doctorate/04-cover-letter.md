@@ -28,7 +28,13 @@ That is the experience criterion. What I want to use it for is more specific.
 
 In 2026 I published *Multiply or Die*, an 84,000-word book setting out what four decades of practice have taught me about multiplication. It has been well received. It is also, by the standards that matter here, unfinished work: it is a trade book, it states no methodology, and it does not test a single one of its own claims. **I am applying because I want to test them.**
 
-I am in an unusual position to do so. I hold a complete organisational archive covering every church plant the network has initiated since 2000, across four national contexts — including the plants that plateaued and the one that closed, which closed as a direct result of a decision I made against our own stated criteria. Church planting's evidence base is systematically distorted by the reluctance to study failure. A comparative study of the **full population** of a network's plants, including its failures, conducted by someone with the access to do it properly, would address a real gap.
+I am in an unusual position to do so, for two reasons.
+
+The first is access. I hold a complete organisational archive covering every church plant the network has initiated since 2000, across four national contexts — including the plants that plateaued and the one that closed, which closed as a direct result of a decision I made against our own stated criteria. Church planting's evidence base is systematically distorted by the reluctance to study failure. A comparative study of the **full population** of a network's plants, including its failures, would address a real gap.
+
+The second is generational. **This organisation did not begin with me.** My father led it from 1970 to 2000 — Klemzig, then Paradise from 1982 — growing it from roughly 150 to over 2,000, before handing it to Jane and me and turning to public life. His father, born in Wales in 1901, was a coal miner who became a missionary to India and then to Papua New Guinea, where some three thousand churches trace their origins to that work. My three sons are in ministry now.
+
+That gives the study something a single-generation case cannot offer: **a completed founder-to-successor transition with twenty-six years of follow-up data**, inside the case and in the archive. It is what makes the book's central claim — that addition dies with the leader while multiplication outlives them — testable rather than merely asserted. It also lets me examine the succession propositions I published from the side the literature almost never hears from: not the founder handing over, but the successor receiving.
 
 My proposal therefore treats the propositions I published as **falsifiable hypotheses rather than conclusions**, and is designed so that disconfirming them counts as a successful outcome.
 

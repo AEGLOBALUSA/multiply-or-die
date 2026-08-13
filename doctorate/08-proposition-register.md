@@ -4,7 +4,9 @@
 
 This is the analytical spine of both the critical commentary (document 05, §3–4) and chapter 8 of the thesis. It does the work that turns a trade book into a research object: it states each claim formally, classifies what kind of claim it is, and says what would show it to be wrong.
 
-**Do not skip the classification column.** Its honesty is the point. A register that graded every proposition "empirically testable" would be worthless — and transparently so to any examiner. The genuine finding here is that **of 24 propositions, 14 are directly testable against the network dataset, 7 require comparison outside it, and 3 are theological rather than empirical — while nine of the book's most memorable devices carry no independent evidential weight at all.** Saying that plainly is what demonstrates research capacity.
+**Do not skip the classification column.** Its honesty is the point. A register that graded every proposition "empirically testable" would be worthless — and transparently so to any examiner. The genuine finding here is that **of 24 propositions, 15 are directly testable against the case, 6 require comparison outside it, and 3 are theological rather than empirical — while nine of the book's most memorable devices carry no independent evidential weight at all.** Saying that plainly is what demonstrates research capacity.
+
+> **Revision note.** P1 — the book's central claim — was originally graded B, untestable from inside, on the assumption that the case began in 2000. It doesn't. The organisation was led by the candidate's predecessor from 1970 to 2000 and transferred to him in 2000: **a completed founder succession with a twenty-six-year follow-up, already inside the case.** P1 is now class A, and P12 gains a second embedded test. Extending the case to the predecessor generation is the single most valuable change made to this design.
 
 ---
 
@@ -27,13 +29,17 @@ This is the analytical spine of both the critical commentary (document 05, §3�
 
 > **As stated:** "Addition dies when you die. But multiplication? Multiplication outlives you."
 
-**Formal:** Organisations whose growth depends on the founder's direct output decline following the founder's departure; organisations whose growth depends on leader-production continue growing after it.
+**Formal:** Organisations whose growth depends on the leader's direct output decline following that leader's departure; organisations whose growth depends on leader-production continue growing after it.
 
-**Class: B.** The network has not yet undergone founder succession, so it cannot test its own central claim from inside. This is the register's most important limitation, and it must be stated in the thesis abstract, not buried. Testing it requires comparison cases — networks that *have* undergone succession.
+**Class: A — reclassified.** *This proposition was originally graded B (untestable internally) on the assumption that the case began in 2000 and had not undergone succession. That was wrong. The organisation was led by the candidate's predecessor from 1970 to 2000 and transferred to the candidate in 2000 — **a completed founder-to-successor transition with a twenty-six-year follow-up**, inside the case, in the archive.*
 
-**Operationalisation:** Post-succession growth trajectories in comparable networks, matched on size and polity at the point of transition.
+**Operationalisation:** Interrupted time series across the 2000 transition on attendance, giving, staffing and leaders-produced. Then the decisive question: characterise the predecessor's growth mode. Growth from ~150 to 2,000+ over thirty years is substantial by any measure — but was it produced by *addition* (the leader's own direct output: preaching, pastoral reach, personal reputation) or by *multiplication* (leader-production)? P1 predicts that the higher the addition-share of pre-2000 growth, the sharper the post-succession discontinuity.
 
-**Falsified by:** Founder-dependent organisations sustaining growth post-departure at rates comparable to leader-producing ones.
+**Falsified by:** A predominantly addition-built organisation transferring without discontinuity; or a leader-producing organisation collapsing at succession.
+
+**Note — the tension is the finding.** Public accounts describe continuous growth to 2,000+ and beyond. The candidate's own account describes receiving the church in a *declining season*. Both can be true: peak attendance and peak vitality need not coincide. The gap between an organisation's public narrative and its internal condition at succession is exactly what this literature lacks. **Do not resolve this tension in the introduction. Investigate it.**
+
+**Note — n=1.** One succession establishes mechanism, sequence and plausibility, and it can falsify. It cannot generalise alone. External comparison cases would still strengthen the claim, but the proposition is no longer beyond reach.
 
 ---
 
@@ -188,9 +194,13 @@ This is the analytical spine of both the critical commentary (document 05, §3�
 
 **Formal:** Successful leadership transitions transfer all five elements; failed transitions transfer a subset.
 
-**Class: A.** Excellent proposition — specific, decomposable, and the network has enough campus-level transitions to test it even without a founder succession.
+**Class: A.** Excellent proposition — specific, decomposable, and now testable at two levels.
 
-**Operationalisation:** Code every campus-level leadership transition, 2000–2026, for transfer of each baton. Compare against post-transition outcomes at 24 and 60 months.
+**Operationalisation:** Code every campus-level leadership transition, 1970–2026, for transfer of each baton; compare against post-transition outcomes at 24 and 60 months.
+
+**And the embedded case:** apply the same five-baton frame to the **2000 succession itself**. Did title, responsibility, authority, relationships and vision all transfer — and on what timeline? The predecessor remained a public figure in the movement and entered political life the following year, which makes the *relationships* and *authority* batons the interesting ones to trace.
+
+**Why this is unusual:** the succession literature is written almost entirely from the departing founder's perspective. This is an account from the receiving end, by the person who received it, with twenty-six years of hindsight. That perspective is close to absent from the field.
 
 ---
 
@@ -338,18 +348,18 @@ This is the analytical spine of both the critical commentary (document 05, §3�
 
 | Class | Count | Propositions |
 |---|---|---|
-| **A** — testable internally | 14 | P2, P5, P6, P7, P8, P9, P10, P11, P12, P13, P16, P19, P20, P22 |
+| **A** — testable internally | 15 | **P1**, P2, P5, P6, P7, P8, P9, P10, P11, P12, P13, P16, P19, P20, P22 |
 | **A/C mixed** | 2 | P3 (rate-predicts-persistence is A; "God measures" is C) · P17 (internal variation is A; general claim is B) |
-| **B** — needs external comparison | 7 | P1, P4, P14, P15, P18, P21, P23 (only if reduced to a psychological proxy) |
+| **B** — needs external comparison | 6 | P4, P14, P15, P18, P21, P23 (only if reduced to a psychological proxy) |
 | **C** — theological | 3 | P23 as stated, P24, and the normative half of P3 |
 | **D** — illustrative only | 9 devices | Whitefield/Wesley · Jacob's flocks · WeWork · tearless onions · bamboo · penny-doubling · cell division · biblical numerology · the five-year cycle |
 | **E** — definitional as worded | 2 | Elements of P1 and P3 require restatement before they can be tested |
 
 **What this tells you, and what to do with it:**
 
-1. **The book's central claim (P1) cannot be tested by this study.** The network has not undergone founder succession. State this in the abstract. An examiner who discovers it independently will treat everything else with suspicion; an author who declares it up front is credible for the rest of the thesis.
+1. **The book's central claim (P1) is testable after all — through the 2000 succession.** The decisive analytical question is whether the predecessor's thirty-year growth from ~150 to 2,000+ was addition-built or multiplication-built, and what the transition therefore reveals. Two honest qualifications stay in the abstract: n=1 at the succession level, and the current transition to the fourth generation is unfinished.
 
-2. **The thesis should concentrate on the twelve class-A propositions**, and P2, P9, P12, P16 and P19 are the strongest five. That is more than enough for a doctoral contribution and considerably more than most single-site studies can attempt.
+2. **The thesis should concentrate on the fifteen class-A propositions**, and P1, P2, P9, P12, P16 and P19 are the strongest six. That is more than enough for a doctoral contribution and considerably more than most single-site studies can attempt.
 
 3. **The class-D material is the book's rhetorical engine and must be quarantined from the evidence.** Naming this yourself is one of the most persuasive things the commentary can do.
 

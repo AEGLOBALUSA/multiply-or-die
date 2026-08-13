@@ -14,72 +14,87 @@
 
 ---
 
-## 1. The honest position
+## 1. The position
 
-You want to use *Multiply or Die* (~84,000 words published; ~79,300 words of body text in the audiobook master) as the basis for admission to a doctorate in leadership.
+**On AC's own published criteria for the Doctor of Ministry, you appear to qualify outright.**
 
-**The book alone will not get you in.** Three reasons, stated plainly:
+AC's DMin page states the admission requirement as:
 
-1. **It is not peer-reviewed.** AC's discretionary provisions refer to *"peer-reviewed publications, professional research outputs, or other verifiable evidence of research capacity."* A trade book — however substantial, however well-received — has been through commercial editorial review, not academic peer review. Those are different tests, and admissions committees know the difference.
+> - a minimum of **5 years full-time leadership and/or ministry experience, or equivalent**
+> - a **CV with a cover letter** outlining how the applicant meets that criterion, or equivalent
 
-2. **It is not structured as research.** It has no stated methodology, no literature engagement, no data collection protocol, no ethics framework, and no explicit contribution-to-knowledge claim. It argues from experience and Scripture. That is the correct form for its audience and it is why the book works — but it is not the form a research committee can assess.
+Plus the HDR Application for Admission form, and IELTS 7.0 for international applicants — not applicable to you as a native English speaker.
 
-3. **The honorary doctorate does not count.** AC's own *Honorary Positions and Degrees Policy* governs honorary awards, and honorary degrees universally confer recognition, not academic standing. It is an asset for your standing and your referees; it is not an entry qualification. Do not let the application imply otherwise — that is the single fastest way to lose credibility with a research committee.
+The award is described as designed for **graduates** with significant leadership experience in churches, para-church ministries, educational institutions and secular organisations.
 
-**None of this means the door is shut.** It means the book is the *raw material*, not the *submission*. The rest of this document is about closing the gap.
+**Your position against that:** approximately **forty years** in full-time ministry against a five-year requirement — eight times the bar. A bachelor's degree, satisfying "graduates." Twenty-six years leading a network to 21 campuses across four countries. Fourteen years as a national director across 1,000+ churches, ten as a state president. Four published books. An honorary doctorate from AC itself.
+
+That is not a marginal application. On the stated criteria it is a strong one.
+
+### One unresolved conflict — worth knowing about, not worth worrying about
+
+A third-party course aggregator (StudyLink) carries a line stating that DMin applicants must have completed a prior research thesis of at least 12,000 words, *"though in some cases peer-reviewed publications may be accepted in lieu."* **This does not appear on AC's own DMin page**, which lists only the experience-based criteria above.
+
+Three possible explanations: the aggregator entry is stale; it has been carried over from the PhD/MPhil rules; or the Graduate Research School applies an additional research-capacity test at assessment that isn't published on the course page. The DMin *is* one of AC's Higher Degree by Research awards — it uses the HDR application form and goes through confirmation of candidature — so a research-capacity expectation somewhere in the process is plausible.
+
+`ac.edu.au` was blocked from the machine this research ran on, so this could not be settled by reading the page directly. **Question 1 in document 06 settles it in one email.** Ask, get it in writing, and proceed accordingly.
+
+### Two things to keep straight regardless
+
+1. **The honorary doctorate is recognition, not academic standing.** AC's own *Honorary Positions and Degrees Policy* governs honorary awards. It is a genuine asset — it signals AC already regards your contribution as doctoral-calibre — but present it as recognition, not as a qualification for entry. Ambiguity there costs credibility that the rest of your record doesn't need to spend.
+
+2. ***Multiply or Die* is evidence of sustained engagement, not a research output.** It is not peer-reviewed, states no methodology, and does not test its own claims. That is the right form for its readers and the wrong form for an assessor. Submit it as supporting evidence and as the source of your research question — not as a substitute for one.
 
 ---
 
-## 2. What AC appears to require
+## 2. What AC requires, by award
 
-| Award | Standard academic entry | Thesis | Duration |
+| Award | Stated entry | Thesis | Duration |
 |---|---|---|---|
-| **PhD** | AQF L8 Bachelor (Honours 1 or 2a) in relevant field, **or** good performance in a Masters with a research component; plus demonstrated research methodology knowledge equivalent to **RES701** | 80,000 words | 3 yrs FTE |
-| **DMin** (professional doctorate) | Prior research thesis of **≥12,000 words**; *"in some cases peer-reviewed publications may be accepted in lieu"*; **min. 5 years** full-time leadership/ministry experience; CV + cover letter | ~50,000 words + coursework (240 credit points) | 3 yrs FTE / 6 yrs PT (max 10 yrs) |
-| **MPhil** | Masters with substantive thesis ≥12,000 words, **or** Honours degree with thesis. **Exceptional circumstances:** admission on recommendation of the **Graduate Research School Director** where equivalent research training is demonstrated via peer-reviewed publications, professional research outputs, or other verifiable evidence of research capacity | — | pathway to PhD |
+| **DMin** (professional doctorate) | **Min. 5 years** full-time leadership/ministry experience, or equivalent; **CV + cover letter**; HDR application form. Designed for *graduates* with significant leadership experience | ~50,000 words + coursework (240 credit points) | 3 yrs FTE / 6 yrs PT (max 10 yrs) |
+| **PhD** | AQF L8 Bachelor (Honours 1 or 2a) in relevant field, **or** good performance in a Masters with a research component; plus research methodology knowledge equivalent to **RES701** | 80,000 words | 3 yrs FTE |
+| **MPhil** | Masters with substantive thesis ≥12,000 words, **or** Honours degree with thesis. **Exceptional circumstances:** admission on recommendation of the Graduate Research School Director where equivalent research training is demonstrated | — | pathway to PhD |
 
-**Your position:** Bachelor's degree, no honours thesis, no masters. Honorary doctorate (AC). ~40 years practice.
-
-**The gap:** You do not currently hold the ≥12,000-word prior research thesis that DMin, MPhil and the PhD alternate pathway all key off.
-
-**The door:** The *exceptional circumstances* provision. It exists precisely for practitioners like you, and it is decided by the Graduate Research School Director — a person, exercising judgement, on evidence. Your job is to make that judgement easy.
+**Read the table this way:** the DMin's published bar is *practice*. The PhD's and MPhil's bar is *prior research*. That difference is the whole reason the DMin is the right target — it is the award built for who you actually are, and its criteria say so explicitly.
 
 ---
 
 ## 3. Three routes, ranked
 
-### ★ Route A — DMin via discretionary admission (recommended)
+### ★ Route A — DMin on the stated criteria (recommended)
 
-Apply directly to the **Doctor of Ministry**, asking the Graduate Research School Director to exercise the discretionary provision, supported by a purpose-built evidence package:
+Apply directly to the **Doctor of Ministry** on the published entry requirements. Your CV and cover letter carry the application, because that is precisely what AC asks for.
 
-- A **12,000–15,000-word critical commentary** on *Multiply or Die* — written to research standard, retrofitting method, literature and contribution onto the book's argument. This is the standard instrument used in *PhD-by-published-work* applications worldwide, and it is the single highest-leverage artefact you can produce. (Plan: document 05.)
-- **One peer-reviewed journal article** submitted (ideally accepted) from the book's material — *Australasian Pentecostal Studies* is AC's own journal and the obvious first target.
-- Evidence of **research methodology training** — complete or challenge RES701 or an equivalent unit.
-- **40 years** of practice, comfortably exceeding the 5-year DMin threshold.
+- **Forty years** full-time ministry against a five-year requirement
+- **Bachelor's degree**, satisfying "graduates"
+- CV and cover letter written to the criterion (documents 03 and 04)
+- A **research proposal** demonstrating you know what doctoral inquiry requires (document 02)
 
-**Why this route:** The DMin is explicitly designed for senior practitioners; it is the only award whose stated purpose matches who you actually are. The 5-year experience bar you clear eightfold. The only bar you miss is the prior-thesis bar, and that bar has a written exception.
+**Why this route:** It is the award designed for senior practitioners, and its published bar is practice — which is your strongest asset by a wide margin. Nothing here requires an exception.
 
-**Risk:** Discretion can go against you. Mitigate by doing the commentary *before* the formal decision, not after — arrive with the evidence, not a promise of it.
+**Realistic timeline to enrolment:** 3–6 months, largely governed by transcript turnaround and intake dates.
 
-**Realistic timeline to enrolment:** 6–12 months.
+### Route A+ — the same route, strengthened
+
+If AC's answer to question 1 indicates a research-capacity test applies, or if you simply want the application to be unarguable, add:
+
+- A **12,000–15,000-word critical commentary** on *Multiply or Die* (document 05)
+- A **peer-reviewed article** submitted to *Australasian Pentecostal Studies*
+- **RES701** or an equivalent research methods unit
+
+**Note that none of this is wasted work even if it isn't required.** The commentary is the literature review and proposition-formalisation your thesis needs in year one; the methods unit is coursework you'll do anyway; the article is a thesis chapter in draft. Doing it early converts a compliance task into a head start.
 
 ### Route B — MPhil → upgrade to PhD
 
-Enter the **MPhil** under the same exceptional-circumstances provision (its discretionary clause is the most explicitly worded of the three), then upgrade to PhD on good progress. AC's own materials describe the MPhil as a pathway for those who don't meet direct PhD entry.
+Only relevant if AC declines the DMin. Enter the **MPhil** under its exceptional-circumstances provision, then upgrade to PhD on good progress.
 
-**Why consider it:** Lower bar to clear, and it converts. If AC signals the DMin discretionary route is a stretch, this is the fallback that still ends in a doctorate.
+**Cost:** Adds ~1–2 years before doctoral candidature proper.
 
-**Cost:** Slower. Adds ~1–2 years before doctoral candidature proper.
+### Route C — Master of Leadership first
 
-### Route C — Master of Leadership (coursework) → DMin/MPhil
+The conventional route, requiring no discretion at all. **Cost:** ~1.5–2 years before the doctorate begins. For a forty-year practitioner this should be a last resort, not a default.
 
-The conventional route: complete AC's **Master of Leadership**, then enter a research degree with the academic prerequisite unambiguously satisfied.
-
-**Why consider it:** Zero discretion required — it simply works. Also builds the research-methods base you'd otherwise have to argue around.
-
-**Cost:** ~1.5–2 years before you start the doctorate. For a 40-year practitioner this is the safest and the slowest.
-
-**Recommendation:** Pursue **Route A**, with **Route B** pre-negotiated as the fallback in the same conversation. Only fall back to Route C if AC declines both — and ask them to tell you that explicitly rather than inferring it.
+**Recommendation:** Apply on **Route A**. Have **A+** ready to deploy if AC's answer calls for it. Treat B and C as contingencies, not as the plan.
 
 ---
 
@@ -110,18 +125,20 @@ Anticipate these. They are in the proposal, but know them cold before any interv
 | **Insider bias** — you're researching your own organisation, your own staff, your own decisions | Named as a core methodological problem, not a footnote. Insider practitioner research is a recognised tradition with an established literature; the proposal specifies reflexivity protocols, an external critical friend, and independent interview transcription. |
 | **Power dynamics** — staff cannot freely decline their Global Senior Pastor | The most serious ethics issue in the project. Proposal specifies third-party recruitment, anonymised transcripts, and an independent gatekeeper who can veto inclusion. |
 | **Confirmation bias** — you already published the conclusions | Deliberate inclusion of negative cases (the closed plant, Ch. 2), pre-registered analytical framework, and disconfirmation as an explicit success criterion. |
-| **Research capacity** — no prior thesis | The critical commentary + peer-reviewed article + RES701 exist to answer precisely this. |
+| **Research capacity** — a bachelor's, no prior thesis | Forty years of practice meets the published DMin criterion. The critical commentary, peer-reviewed article and RES701 exist to close any residual question about doctoral-level *inquiry* as distinct from doctoral-level *experience*. |
 | **Time** — you run a four-country church | Realistic part-time candidature (6 yrs), with the fieldwork embedded in visits you already make. |
 
 ---
 
 ## 6. Immediate next actions
 
-1. **Submit the Expression of Interest** (document 06) — this is free, non-binding, and starts the clock.
-2. **Ask AC in writing** to confirm the discretionary provision and what evidence they would find persuasive. Their answer shapes everything downstream.
-3. **Start the critical commentary** (document 05). It takes ~8–12 weeks of real work and it is required under every route.
-4. **Confirm your bachelor's details** and order an academic transcript — you will need certified copies.
+1. **Submit the Expression of Interest** (document 06) — free, non-binding, and it starts the clock.
+2. **Ask AC in writing** whether any research-capacity requirement applies to the DMin beyond the published experience criterion. One email settles the only genuine unknown in this plan.
+3. **Order your academic transcript** — 4–8 weeks is normal turnaround and it is the most common cause of missed deadlines.
+4. **Resolve the `[CONFIRM]` placeholders** in the CV (document 03).
 5. **Approach referees** (document 07).
+
+The critical commentary (document 05) is worth starting regardless — but as a head start on the thesis, not as a hurdle to clear.
 
 ---
 

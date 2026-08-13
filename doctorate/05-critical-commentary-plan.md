@@ -1,16 +1,20 @@
-# Converting *Multiply or Die* into a Qualifying Research Output
+# Converting *Multiply or Die* into a Research Output
 
-**The single highest-leverage piece of work in this application.**
+**Probably not required for DMin entry. Do it anyway — it is a year of thesis work banked early.**
 
 ---
 
 ## 1. Why this document exists
 
-You have an 84,000-word book. AC needs to see a ≥12,000-word research output, or peer-reviewed publications, or "other verifiable evidence of research capacity."
+On AC's published criteria, DMin entry turns on **five years' full-time ministry experience** — which you exceed eightfold — not on a prior research output. So read this document in the right register: it is **insurance and head start**, not a hurdle.
 
-The book is not that — for the three reasons set out in document 01. But the book *contains* enough substance to generate one. The instrument that does the conversion is a **critical commentary**: a scholarly document that stands alongside a published work and does for it what the work itself never had to do — state the method, engage the literature, and make an explicit, bounded claim about what is contributed and what is merely asserted.
+It earns its place three ways:
 
-This is not a workaround. It is the standard, recognised instrument used in *PhD by Published Work* applications internationally, and admissions committees know it and expect it. Producing a good one is itself a demonstration of research capacity, which is precisely the thing being assessed.
+1. **If AC does apply a research-capacity test** (see the unresolved conflict in document 01 §1), this answers it completely and pre-emptively.
+2. **It is the strongest possible differentiator** in an application that otherwise rests on experience alone. Experience gets you admitted; demonstrated capacity for disciplined inquiry gets you a good supervisor and a confident panel at confirmation of candidature.
+3. **It is thesis work you will do regardless.** The literature survey, the formalisation of your propositions, and the honest statement of the book's limits are chapters two and eight of the thesis in draft. Doing them now compresses year one.
+
+The instrument is a **critical commentary**: a scholarly document standing alongside a published work, doing for it what the work itself never had to do — stating method, engaging literature, and making a bounded claim about what is contributed and what is merely asserted. It is the standard, recognised instrument in *PhD by Published Work* applications internationally.
 
 ---
 

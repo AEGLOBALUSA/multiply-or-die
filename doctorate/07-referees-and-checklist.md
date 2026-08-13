@@ -50,9 +50,11 @@ Send a brief, and send it early. Referees write better reports when they know wh
 - [ ] Two referee reports arranged
 - [ ] *Multiply or Die* — physical copy plus PDF
 
-### The discretionary-admission evidence pack
+### Strengthening pack — probably optional, worth doing
 
-- [ ] **Critical commentary, 12,000–15,000 words** (document 05) — the decisive artefact
+*Not required on AC's published DMin criteria. Deploy if AC's answer to question 1 calls for it, or simply to make the application unarguable.*
+
+- [ ] **Critical commentary, 12,000–15,000 words** (document 05)
 - [ ] Peer-reviewed article submitted to *Australasian Pentecostal Studies*
 - [ ] RES701 or equivalent research methods unit — enrolled or completed
 - [ ] Publication list with extents and publishers verified
@@ -76,14 +78,15 @@ Send a brief, and send it early. Referees write better reports when they know wh
 
 | When | What |
 |---|---|
-| **This week** | Submit EOI. Order academic transcript. Confirm bachelor's details. |
-| **Weeks 2–4** | AC response. Ask the eleven questions in document 06. Approach referees informally. |
-| **Weeks 4–8** | Enrol in RES701 if available. Begin proposition extraction for the commentary. Request library access. |
-| **Months 2–4** | Literature survey. Draft critical commentary. |
-| **Months 3–4** | Draft and submit the journal article in parallel. |
-| **Months 4–6** | Complete commentary. Internal review. Finalise all application documents. |
-| **Month 6** | Submit full application. |
+| **This week** | Submit EOI. Order academic transcript. Confirm bachelor's details. Resolve CV placeholders. |
+| **Weeks 2–4** | AC response — especially question 1. Approach referees. Finalise CV, cover letter and proposal. |
+| **Weeks 4–8** | **Submit the application.** If AC's answer requires the strengthening pack, hold and proceed below instead. |
+| **Weeks 4–8 (parallel)** | Enrol in RES701 if available. Begin proposition extraction. Request library access. |
+| **Months 2–4** | Literature survey. Draft critical commentary. Draft journal article. |
+| **Months 4–6** | Complete commentary. Internal review. Submit article. |
 | **2027** | Commence candidature. Confirmation of candidature falls within 6–12 months FTE of the research component starting. |
+
+**The point of this sequence:** don't hold the application hostage to the strengthening pack. Apply on the criteria AC publishes; build the commentary alongside. If AC comes back asking for more, you are already three months into producing it.
 
 ---
 
@@ -108,8 +111,8 @@ Not exhaustive, and figures need confirming with AC, but do not go in blind:
 
 | Risk | Likelihood | Mitigation |
 |---|---|---|
-| AC declines discretionary DMin entry | Moderate | MPhil fallback pre-negotiated in the same conversation (document 01, Route B) |
-| Discretionary provision doesn't extend to DMin at all | Moderate | Confirm at EOI stage before investing in the commentary — question 1 in document 06 |
+| AC applies a research-output test to DMin entry not shown on its course page | Moderate | Confirm at EOI stage — question 1 in document 06. If yes, deploy the strengthening pack |
+| AC declines DMin entry | Low | Published criteria are experience-based and you exceed them eightfold. MPhil fallback pre-negotiated in the same conversation (document 01, Route B) |
 | Archive incomplete in some countries | Moderate | Audit before submission; scope the study to what genuinely exists |
 | Departed leaders decline to participate | High | Expected. Independent approach; report non-participation transparently as a limitation |
 | Ethics approval delayed by insider-research complexity | High | Early pre-consultation; do not treat HREC as a formality |

@@ -39,8 +39,8 @@ It must:
 |---|---|---|---|
 | 1 | Introduction and purpose | 800 | What the book is, what the commentary is for, what it claims and does not claim |
 | 2 | Context of production | 1,200 | The twenty-six-year practice base; how the propositions were arrived at; the book's intended audience and genre, and why genre matters for evidential standards |
-| 3 | The propositions | 3,000 | Formal statement of the book's core claims, organised thematically rather than by chapter |
-| 4 | Evidential basis and classification | 2,500 | Each proposition classified: practitioner observation / theological argument / documented case / systematically evidenced. The honest audit. |
+| 3 | The propositions | 3,000 | Formal statement of the book's core claims, organised thematically. **✅ Drafted — see document 08** |
+| 4 | Evidential basis and classification | 2,500 | Each proposition classified by claim-type and falsifiability. The honest audit. **✅ Drafted — see document 08** |
 | 5 | Situating the work | 2,500 | Engagement with church multiplication, organisational ecology, leadership pipeline, and practical theology literatures |
 | 6 | Contribution | 1,200 | The narrow, defensible claim |
 | 7 | Limitations | 1,200 | Comprehensive and unflinching |
@@ -78,15 +78,15 @@ AC requires demonstrated research methodology knowledge equivalent to **RES701**
 | Stage | Effort | Depends on |
 |---|---|---|
 | Submit Expression of Interest | 1 hour | — |
-| AC confirms discretionary provision in writing | — | AC response |
-| Extract and formalise propositions (§3 of commentary) | 2–3 weeks | Book |
+| AC confirms its requirements in writing | — | AC response |
+| ~~Extract and formalise propositions (§3–4)~~ | **✅ done — document 08** | — |
 | Literature survey | 4–6 weeks | Library access — request via AC |
 | Draft full commentary | 4–6 weeks | Above |
 | Internal review + revision | 2 weeks | A critical reader |
 | Draft and submit journal article | 4 weeks | Runs parallel from week 6 |
 | RES701 or equivalent | One term | AC enrolment |
 
-**Realistic total: 4–6 months** of part-time work to a complete, credible submission.
+**Realistic total: 3–5 months** of part-time work to a complete, credible submission — the proposition extraction and classification, which is roughly 5,500 words of the commentary and the hardest analytical part, is already drafted in document 08.
 
 ---
 

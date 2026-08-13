@@ -59,7 +59,7 @@ The gap is a longitudinal, multi-country, single-network comparative study that 
 
 **Subsidiary:**
 
-1. Which of the propositions advanced in *Multiply or Die* are supported by systematic comparative evidence across the network's plants, and which are not?
+1. Which of the propositions advanced in *Multiply or Die* are supported by systematic comparative evidence across the network's plants, and which are not? *(24 propositions formalised in document 08; 14 testable against this dataset.)*
 2. How do the conditions for sustained multiplication differ across national contexts (Australia, United States, Indonesia, Brazil), and what does that variation reveal about which conditions are transferable versus context-dependent?
 3. What role does leader-development architecture — the pipeline by which a plant produces its next generation of leaders — play in distinguishing sustained multiplication from plateau?
 4. What can be learned from the network's failed and closed plants that its successful plants cannot show?
@@ -106,7 +106,8 @@ The inclusion of **leaders who have left the network, on poor terms as well as g
 
 - **Within-case:** chronological reconstruction of each plant from founding conditions to current state.
 - **Cross-case:** structured comparison on a pre-registered set of conditions, using qualitative comparative analysis (QCA) to identify which combinations of conditions are necessary and/or sufficient for sustained multiplication.
-- **Proposition testing:** each testable proposition extracted from *Multiply or Die* is stated formally, operationalised, and assessed against the cross-case evidence. **The analytical framework and the propositions are fixed before analysis begins** and lodged with the supervisory panel, so that post-hoc rationalisation is visible if it occurs.
+- **Proposition testing:** the book's claims have already been extracted and formalised into a **register of 24 propositions**, each classified by the kind of claim it makes and by what evidence could falsify it (see document 08). Fourteen are directly testable against the network dataset; seven require comparison outside it; three are theological rather than empirical; and nine of the book's most memorable devices — the Whitefield/Wesley contrast, Jacob's flocks, WeWork, the tearless onions — are classified as illustrative and carry no evidential weight. **The register is fixed before analysis begins** and lodged with the supervisory panel, so post-hoc rationalisation is visible if it occurs.
+- **Priority propositions:** the thesis concentrates on five — the leader as ceiling (P2), the 4D Protocol as a necessary sequence (P9), the five batons of succession (P12), boundary-based governance (P16), and culture over strategy (P19).
 - **Negative case analysis:** closed and plateaued plants are analysed first, before the successful ones, to counter the pull toward confirmatory reading.
 
 ### 5.4 The insider problem — and what is done about it
@@ -142,6 +143,12 @@ Formal ethics approval will be sought from AC's Human Research Ethics Committee 
 **To method:** A worked, critically examined protocol for insider practitioner research in founder-led religious organisations — a situation common in this field and rarely handled well.
 
 **To the tradition:** A documented, publishable account of multiplication failure, in a movement whose evidence base is distorted by the reluctance to report it.
+
+### 6.1 A limitation stated up front
+
+**The book's central claim cannot be tested by this study.** *Multiply or Die* opens by asserting that addition dies with the leader while multiplication outlives them (P1 in document 08). Testing that requires observing what happens after founder succession — and this network has not yet undergone one. I am still leading it.
+
+The study therefore tests the *mechanisms* the book proposes for producing multiplication, not the *outcome claim* that motivates them. That is a real and substantial limitation, and it belongs in the abstract rather than in a footnote. An examiner who finds it unaided will discount everything around it; declaring it is the condition of being believed on the rest.
 
 ---
 

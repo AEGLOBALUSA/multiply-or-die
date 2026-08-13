@@ -39,6 +39,13 @@ You published a set of laws about multiplication drawn from four decades of prac
 
 Very few applicants can credibly propose to find out whether they were wrong. You hold the archive that makes it possible.
 
+**Document 08 does this work for real.** Every chapter of *Multiply or Die* states an explicit Law. All twenty-four are now extracted, stated formally, and classified by what evidence could falsify them: 14 testable against your own dataset, 7 needing outside comparison, 3 theological rather than empirical — and 9 of the book's most memorable devices (Whitefield and Wesley, Jacob's flocks, WeWork, the tearless onions) classified as illustration carrying no evidential weight.
+
+Two findings in there you should sit with before anyone else raises them:
+
+- **The book's central claim can't be tested by this study.** That addition dies with the leader and multiplication outlives them requires observing a founder succession — and you haven't had one. It goes in the abstract, not a footnote.
+- **P20 will be uncomfortable.** "Multipliers want freedom; dependents want security" predicts that your own best people left wherever autonomy was constrained. Testing it honestly means looking hard at departures you may prefer to explain differently.
+
 ---
 
 ## What's in this pack
@@ -52,6 +59,7 @@ Very few applicants can credibly propose to find out whether they were wrong. Yo
 | **05** | [Critical commentary plan](05-critical-commentary-plan.md) | Optional strengthener, and a year of thesis work banked early |
 | **06** | [Expression of Interest](06-expression-of-interest.md) | What to submit first, plus eleven questions to put to AC in writing |
 | **07** | [Referees & checklist](07-referees-and-checklist.md) | Referees, documents, timeline, costs, risks |
+| **08** | [Proposition register](08-proposition-register.md) | **The book's 24 claims formalised and classified by what could falsify them** — the analytical spine of the commentary and of thesis chapter 8 |
 
 ---
 

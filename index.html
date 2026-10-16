@@ -1,10 +1,224 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta http-equiv="refresh" content="0;url=/invested/">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Multiply or Die</title>
+  <meta name="description" content="The book and the masterclass for pastors who want a church that multiplies.">
+  <meta property="og:title" content="Multiply or Die">
+  <meta property="og:description" content="The book and the masterclass for pastors who want a church that multiplies.">
+  <meta property="og:image" content="https://futures.church/books/multiply-or-die/og.jpg">
+  <meta property="og:url" content="https://multiply-or-die.com/">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Multiply or Die">
+  <meta name="twitter:description" content="The book and the masterclass for pastors who want a church that multiplies.">
+  <meta name="twitter:image" content="https://futures.church/books/multiply-or-die/og.jpg">
+  <meta name="theme-color" content="#0B1220">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%230B1220'/%3E%3Cpath d='M8 24V8h3.2l4.8 9.2L20.8 8H24v16h-2.8V13.2L17.2 21h-2.4l-3.9-7.8V24z' fill='%23C6A15B'/%3E%3C/svg%3E">
+  <style>
+    :root {
+      --navy-deep: #0B1220;
+      --navy: #152238;
+      --cream: #F3EDE2;
+      --cream-soft: rgba(243, 237, 226, 0.86);
+      --cream-quiet: rgba(243, 237, 226, 0.72);
+      --terracotta: #C96F45;
+      --terracotta-hover: #D48358;
+      --ink: #0B1220;
+      --gold: #C6A15B;
+      --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, "Times New Roman", serif;
+      --sans: "Avenir Next", "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    html { -webkit-text-size-adjust: 100%; }
+
+    body {
+      margin: 0;
+      min-height: 100dvh;
+      font-family: var(--sans);
+      font-size: 16px;
+      line-height: 1.5;
+      color: var(--cream);
+      background-color: var(--navy-deep);
+      background-image: linear-gradient(180deg, var(--navy) 0%, var(--navy-deep) 62%);
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+
+    .page {
+      min-height: 100dvh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding:
+        max(32px, env(safe-area-inset-top))
+        max(20px, env(safe-area-inset-right))
+        max(32px, env(safe-area-inset-bottom))
+        max(20px, env(safe-area-inset-left));
+    }
+
+    .panel {
+      width: min(100%, 26rem);
+      text-align: center;
+    }
+
+    .cover {
+      width: 128px;
+      height: auto;
+      margin: 0 auto 28px;
+      display: block;
+      border-radius: 2px;
+      box-shadow: 0 22px 48px rgba(0, 0, 0, 0.38);
+    }
+
+    .rule {
+      width: 40px;
+      height: 1px;
+      margin: 0 auto 20px;
+      background: var(--gold);
+    }
+
+    h1 {
+      margin: 0;
+      font-family: var(--serif);
+      font-weight: 500;
+      font-size: clamp(2.25rem, 10.2vw, 4.75rem);
+      line-height: 0.96;
+      letter-spacing: -0.03em;
+      color: var(--cream);
+      text-wrap: balance;
+    }
+
+    .lede {
+      margin: 16px auto 0;
+      max-width: 28em;
+      font-size: 17px;
+      line-height: 1.45;
+      color: var(--cream-soft);
+      text-wrap: pretty;
+    }
+
+    .cta {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      margin: 28px auto 0;
+      min-height: 52px;
+      padding: 14px 22px;
+      background: var(--terracotta);
+      color: var(--ink);
+      font-family: inherit;
+      font-size: 16px;
+      font-weight: 600;
+      letter-spacing: 0.01em;
+      line-height: 1.2;
+      text-decoration: none;
+      border-radius: 3px;
+    }
+
+    .cta:hover { background: var(--terracotta-hover); }
+
+    .cta:focus-visible,
+    .paths a:focus-visible {
+      outline: 2px solid var(--gold);
+      outline-offset: 3px;
+    }
+
+    .paths {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 6px;
+      margin: 6px 0 0;
+      font-size: 16px;
+    }
+
+    .paths a {
+      color: var(--cream);
+      text-decoration: underline;
+      text-underline-offset: 4px;
+      text-decoration-color: var(--gold);
+      padding: 12px 8px;
+      min-height: 44px;
+      display: inline-flex;
+      align-items: center;
+    }
+
+    .paths a:hover { color: var(--gold); }
+
+    .dot {
+      width: 4px;
+      height: 4px;
+      border-radius: 50%;
+      background: var(--gold);
+      flex: none;
+    }
+
+    .closed {
+      margin: 22px auto 0;
+      max-width: 26em;
+      font-size: 15px;
+      line-height: 1.45;
+      color: var(--cream-quiet);
+    }
+
+    @media (min-width: 800px) {
+      .panel {
+        width: min(100%, 52rem);
+        display: grid;
+        grid-template-columns: auto minmax(0, 34rem);
+        column-gap: 64px;
+        row-gap: 0;
+        align-items: center;
+        text-align: left;
+      }
+
+      .cover {
+        grid-row: 1 / span 5;
+        width: 210px;
+        margin: 0;
+      }
+
+      .rule { margin: 0 0 22px; }
+
+      h1 { font-size: clamp(3.25rem, 5vw, 4.75rem); }
+
+      .lede {
+        margin: 18px 0 0;
+        font-size: 18px;
+      }
+
+      .cta {
+        width: auto;
+        min-width: 18.5rem;
+        margin: 28px 0 0;
+      }
+
+      .paths { justify-content: flex-start; margin-left: -8px; }
+
+      .closed { margin: 18px 0 0; }
+    }
+  </style>
 </head>
 <body>
-  <p>Redirecting to <a href="/invested/">registration page</a>...</p>
+  <main class="page">
+    <div class="panel">
+      <img class="cover" src="images/book-cover.jpg" width="1288" height="1800" alt="Cover of the book Multiply or Die">
+      <div class="rule" aria-hidden="true"></div>
+      <h1>Multiply or Die</h1>
+      <p class="lede">The book and the masterclass for pastors who want a church that multiplies.</p>
+      <a class="cta" href="https://futures.church/books/multiply-or-die?utm_source=mod_domain&amp;utm_medium=holding&amp;utm_campaign=hub_cutover">Get the book &amp; masterclass</a>
+      <p class="paths">
+        <a href="https://futures.church/read/multiply-or-die.html?utm_source=mod_domain&amp;utm_medium=holding&amp;utm_campaign=hub_cutover">Read free</a>
+        <span class="dot" aria-hidden="true"></span>
+        <a href="https://futures.church/listen/multiply-or-die?utm_source=mod_domain&amp;utm_medium=holding&amp;utm_campaign=hub_cutover">Listen</a>
+      </p>
+      <p class="closed" lang="id">Klaim buku gratis untuk konferensi telah ditutup. Terima kasih.</p>
+    </div>
+  </main>
 </body>
 </html>
